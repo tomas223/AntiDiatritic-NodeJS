@@ -1,0 +1,23 @@
+extends layout
+
+block content
+  h3 Welcome to #{title}
+  div.container
+    div.row
+      div.col-xs-12
+        div.panel.panel-default
+          div.panel-body
+            span.glyphicon.glyphicon-cloud-upload
+            h2 File Uploader
+            h4 coligo.io
+            div.progress
+              div.progress-bar(role='progressbar')
+            button.btn.btn-lg.upload-btn(type='button') Upload files
+  
+  input#upload-input(type='file' name='uploads[]')
+  br
+  
+
+  script(src='javascripts/jquery-3.2.0.js')
+  script(src='javascripts/bootstrap.js')
+  script(src='javascripts/script.js')

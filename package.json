@@ -1,0 +1,28 @@
+{
+  "name": "anti",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --trace-deprecation ./bin/www",
+    "dev": "nodemon --trace-deprecation ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "client-sessions": "^0.8.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "formidable": "^1.1.1",
+    "fs": "0.0.1-security",
+    "morgan": "~1.8.1",
+    "pug": "~2.0.0-beta11",
+    "serve-favicon": "~2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "~1.11.0"
+  },
+  "description": "Web tool to remove diacritics from text files",
+  "main": "app.js",
+  "author": "Tomas Hornak",
+  "license": "ISC"
+}

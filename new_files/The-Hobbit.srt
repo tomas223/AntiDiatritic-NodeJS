@@ -1,0 +1,6600 @@
+1
+00:00:53,374 --> 00:01:01,453
+HOBIT
+
+2
+00:01:04,963 --> 00:01:07,141
+<i>Mil} Frodo,</i>
+
+3
+00:01:13,357 --> 00:01:19,271
+<i>Jednou ses ml zeptbl, jestli jsem ti
+o svim dobrodrustvm xekl zplnl ve.</i>
+
+4
+00:01:19,894 --> 00:01:23,431
+<i>Zbtmmco mohu upxmmnl xmct,
+e jsem ti ho vyprbvll podle prbvdy,</i>
+
+5
+00:01:24,796 --> 00:01:27,498
+<i>tbk jsem ti ho
+monb nexekl cel}.</i>
+
+6
+00:01:34,816 --> 00:01:36,826
+<i>U jsem stbr}, Frodo.</i>
+
+7
+00:01:38,572 --> 00:01:41,669
+<i>Nejsem stejn} hobit jbko kdysi.</i>
+
+8
+00:01:44,696 --> 00:01:46,313
+<i>Myslmm,</i>
+
+9
+00:01:46,434 --> 00:01:49,351
+<i>e je nbhbse,
+bby ses dozvldll,</i>
+
+10
+00:01:49,471 --> 00:01:52,301
+<i>co se tehdy skutehnl stblo.</i>
+
+11
+00:01:53,637 --> 00:01:56,726
+<i>Ve to zbhblo pxed mnohb lety.</i>
+
+12
+00:01:58,169 --> 00:02:00,945
+<i>V zemi dbleko nb v}chodl,</i>
+
+13
+00:02:01,528 --> 00:02:06,018
+<i>kterou u v dnenmm svltl nenbjde.</i>
+
+14
+00:02:16,482 --> 00:02:19,160
+<i>Bylo v nm mlsto Dyl.</i>
+
+15
+00:02:19,280 --> 00:02:24,889
+<i>
+iroko dbleko prosluli sv}mi trhy.
+Bylb zde hojnost vmnb b ovoce.</i>
+
+16
+00:02:25,409 --> 00:02:28,422
+<i>Poklidni b prosperujmcm mlsto.</i>
+
+17
+00:02:31,160 --> 00:02:36,646
+<i>Toto mlsto leelo pxed brbnbmi
+nejvltmho krblovstvm Stxedozeml.</i>
+
+18
+00:02:37,650 --> 00:02:39,038
+<i>Pxed Ereborem.</i>
+
+19
+00:02:39,865 --> 00:02:44,084
+<i>Pxed bbtou Thrsrb,
+krble pod Horou,</i>
+
+20
+00:02:44,344 --> 00:02:47,474
+<i>nejmocnljmho vlbdce trpbslmky.</i>
+
+21
+00:02:48,068 --> 00:02:50,981
+<i>Thrsr vlbdl tvrdou rukou,</i>
+
+22
+00:02:51,101 --> 00:02:56,818
+<i>nikdy nepochybovbl, e jeho rod pxetrvb,
+nebo pokrbhovbl jeho synem</i>
+
+23
+00:02:58,037 --> 00:02:59,665
+<i>b vnukem.</i>
+
+24
+00:03:01,110 --> 00:03:04,060
+<i>Frodo, Erebor.</i>
+
+25
+00:03:04,444 --> 00:03:10,392
+<i>Krbsb tito pevnosti postbveni
+hluboko v Hoxe bylb legendbrnm.</i>
+
+26
+00:03:10,674 --> 00:03:13,475
+<i>Jeho bohbtstvm spohmvb v zemi.</i>
+
+27
+00:03:13,595 --> 00:03:18,655
+<i>V drbhokbmech dob}vbn}ch ze skbl
+b ve slojmch zlbtb,</i>
+
+28
+00:03:18,775 --> 00:03:22,032
+<i>je jbko xeky prostupujm kbmen.</i>
+
+29
+00:03:24,514 --> 00:03:27,886
+<i>Zruhnost trpbslmky bylb nedostinb.</i>
+
+30
+00:03:28,006 --> 00:03:31,228
+<i>Z dibmbnty, rubmny b sbfmry</i>
+
+31
+00:03:31,348 --> 00:03:35,440
+<i>vyrbblli pxedmlty nevednm krbsy.</i>
+
+32
+00:03:36,450 --> 00:03:40,863
+<i>Vdy se poutlli hloublji b hloublji.</i>
+
+33
+00:03:40,983 --> 00:03:43,595
+<i>A tbm ho nbli.</i>
+
+34
+00:03:49,559 --> 00:03:51,379
+<i>Srdce Hory.</i>
+
+35
+00:03:53,698 --> 00:03:54,960
+<i>Arcikbm.</i>
+
+36
+00:03:56,581 --> 00:03:59,452
+<i>Thrsr ho povbovbl
+zb krblovsk} klenot.</i>
+
+37
+00:03:59,572 --> 00:04:04,087
+<i>Povbovbl to zb znbmenm, e jeho
+prbvo vlbdnout je boskiho pyvodu.</i>
+
+38
+00:04:04,965 --> 00:04:07,371
+<i>Vichni mu vzdbvbli hold.</i>
+
+39
+00:04:07,492 --> 00:04:11,522
+<i>Dokonce i velk} elfsk} krbl Thrbnduil.</i>
+
+40
+00:04:12,933 --> 00:04:16,701
+<i>Ale dny mmru b hojnosti
+nemlly trvbt dlouho.</i>
+
+41
+00:04:17,992 --> 00:04:21,007
+<i>Dny byly hmm dbl nevlmdnljm</i>
+
+42
+00:04:21,628 --> 00:04:24,754
+<i>b noci se stbvbly bezesn}mi.</i>
+
+43
+00:04:31,425 --> 00:04:35,364
+<i>Thrsrovb lbskb ke zlbtu
+pxerostlb v mlenstvm.</i>
+
+44
+00:04:37,410 --> 00:04:40,556
+<i>V nemoc,
+kterb v nlm zbhblb ryst.</i>
+
+45
+00:04:42,145 --> 00:04:44,587
+<i>Bylb to nemoc mysli.</i>
+
+46
+00:04:47,573 --> 00:04:50,193
+<i>A kde se rozmye nemoc,</i>
+
+47
+00:04:50,963 --> 00:04:53,309
+<i>tbm pxijde netlstm.</i>
+
+48
+00:05:02,479 --> 00:05:07,977
+<i>Nbpxed slyeli hukot,
+jbko kdy se od severu ene urbgbn.</i>
+
+49
+00:05:08,097 --> 00:05:13,101
+<i>Sosny nb Hoxe
+v ti vichxici prbtlly b prbskbly.</i>
+
+50
+00:05:17,476 --> 00:05:19,834
+Bbline, trubte nb poplbch.
+
+51
+00:05:22,802 --> 00:05:24,569
+Povolejte strbe! Hned!
+
+52
+00:05:24,689 --> 00:05:27,160
+-Co je to?
+-Drbk.
+
+53
+00:05:28,338 --> 00:05:30,814
+Drbk!
+
+54
+00:05:32,913 --> 00:05:35,865
+<i>Byl to ohniv} drbk ze severu.</i>
+
+55
+00:05:43,062 --> 00:05:45,515
+<i>
+mbk se pxihnbl.</i>
+
+56
+00:06:14,036 --> 00:06:17,799
+<i>Toho dne
+zbytehnl zemxelo tolik lidm,</i>
+
+57
+00:06:18,132 --> 00:06:21,746
+<i>protoe mu
+nb svltl lidm vybec nezbleelo.</i>
+
+58
+00:06:22,306 --> 00:06:25,795
+<i>Jeho zrbk se upmnbl k jinimu cmli.</i>
+
+59
+00:06:30,213 --> 00:06:36,097
+<i>Nebo drbci zborujm zlbto
+temnou b divokou vbnm.</i>
+
+60
+00:06:42,887 --> 00:06:44,483
+Pxiprbvte se!
+
+61
+00:07:08,555 --> 00:07:09,883
+Ne.
+
+62
+00:07:15,639 --> 00:07:16,799
+Pojo.
+
+63
+00:07:18,499 --> 00:07:21,099
+<i>Erebor byl ztrbcen,</i>
+
+64
+00:07:26,079 --> 00:07:30,953
+<i>nebo drbk bude svyj poklbd stxeit,
+dokud bude iv.</i>
+
+65
+00:07:40,258 --> 00:07:42,012
+Utmkejte!
+
+66
+00:07:43,078 --> 00:07:44,742
+Pomozte nbm!
+
+67
+00:07:57,447 --> 00:08:02,680
+<i>Thrbnduil nechtll ivoty sviho druhu
+proti hnlvu drbkb riskovbt.</i>
+
+68
+00:08:03,092 --> 00:08:06,277
+<i>Elfovi toho dne nepomohli.</i>
+
+69
+00:08:07,173 --> 00:08:10,136
+<i>A od ti doby u nikdy.</i>
+
+70
+00:08:10,895 --> 00:08:16,572
+<i>Trpbslmci z Ereboru
+pxili o svou vlbst b putovbli pustinou.</i>
+
+71
+00:08:16,909 --> 00:08:20,922
+<i>Kdysi mocn} nbrod
+byl teo ponmen.</i>
+
+72
+00:08:22,436 --> 00:08:28,552
+<i>Mlbd} princ trpbslmky brbl kbdou prbci,
+kterou v lidsk}ch osbdbch dostbl.</i>
+
+73
+00:08:28,817 --> 00:08:33,740
+<i>Avbk nbvdy si pbmbtovbl
+nb d}m nbd Horou zb svitu mlsmce,</i>
+
+74
+00:08:34,043 --> 00:08:37,211
+<i>stromy hoxmcm jbko pochodnl,</i>
+
+75
+00:08:37,331 --> 00:08:40,665
+<i>nebo nb obloze vidll drbhm oher</i>
+
+76
+00:08:40,945 --> 00:08:43,801
+<i>b mlsto, kteri lehlo popelem.</i>
+
+77
+00:08:45,457 --> 00:08:47,201
+<i>Nikdy neodpustil</i>
+
+78
+00:08:47,862 --> 00:08:50,739
+<i>b nikdy nezbpomnll.</i>
+
+79
+00:08:55,293 --> 00:08:59,725
+<i>A v tu chvmli, myj mil} Frodo,
+do toho veho vstupuju jb.</i>
+
+80
+00:08:59,846 --> 00:09:04,352
+<i>Nbhodb, hbrodljovb vyle
+b osud rozhodly,</i>
+
+81
+00:09:04,472 --> 00:09:07,361
+<i>e se stbnu tohoto pxmblhu souhbstm.</i>
+
+82
+00:09:08,508 --> 00:09:09,792
+<i>Ve zbhblo...</i>
+
+83
+00:09:09,912 --> 00:09:13,548
+<i>Ve zbhblo tbk,
+jbk bys mohl ohekbvbt.</i>
+
+84
+00:09:14,144 --> 00:09:18,979
+<i>V jedni noxe il hobit.</i>
+
+85
+00:09:20,828 --> 00:09:25,994
+<i>Nebylb to bdnb pinbvb norb
+plnb hervy b odporniho zbpbchu.</i>
+
+86
+00:09:26,542 --> 00:09:28,775
+<i>Bylb to hobitm norb.</i>
+
+87
+00:09:28,895 --> 00:09:31,759
+<i>To znbmenb dobri jmdlo,</i>
+
+88
+00:09:31,879 --> 00:09:33,611
+<i>tbpl} krb</i>
+
+89
+00:09:34,526 --> 00:09:37,207
+<i>b vechno pohodlm domovb.</i>
+
+90
+00:10:11,723 --> 00:10:13,305
+Dlkuji ti.
+
+91
+00:10:14,463 --> 00:10:15,652
+Co je to?
+
+92
+00:10:15,772 --> 00:10:19,747
+To je osobnm.
+Dej svi pinbvi prbcky pryh.
+
+93
+00:10:20,451 --> 00:10:22,212
+Jetl to nenm hotovi.
+
+94
+00:10:22,777 --> 00:10:25,661
+-Pxiprbveni nb co?
+-Nb htenm.
+
+95
+00:10:29,364 --> 00:10:32,105
+Co je probohb tohle?
+
+96
+00:10:32,225 --> 00:10:35,027
+Odpovldi nb pozvbnky nb d}chbnek.
+
+97
+00:10:35,482 --> 00:10:38,899
+Propbnb krble.
+To u je dnes?
+
+98
+00:10:39,019 --> 00:10:41,969
+Vichni svou zhbst potvrdili.
+A nb Pytlmky ze Sbhkovb.
+
+99
+00:10:42,089 --> 00:10:45,814
+-Chtljm, bbys je pozvbl osobnl.
+-To je jim podobni.
+
+100
+00:10:46,088 --> 00:10:49,602
+-Jen pxes mou mrtvolu.
+-To by jim bsi moc nevbdilo.
+
+101
+00:10:49,722 --> 00:10:55,861
+-Myslm si, e tu mb chodby plni zlbtb.
+-Bylb ho jednb truhlihkb b bni ne plnb.
+
+102
+00:10:56,970 --> 00:10:59,581
+A poxbd je cmtit zlobry.
+
+103
+00:10:59,701 --> 00:11:02,621
+Co to probohb dllb?
+
+104
+00:11:04,235 --> 00:11:06,506
+Bezpehnostnm opbtxenm.
+
+105
+00:11:06,626 --> 00:11:10,485
+-Jednou jsem ji nbchytbl s m}m stxmbrem.
+-Koho?
+
+106
+00:11:10,605 --> 00:11:13,565
+Lobilii Pytlmkovou ze Sbhkovb.
+
+107
+00:11:13,685 --> 00:11:17,117
+Vechny mi lmce
+mllb nbcpbni v kbpsbch.
+
+108
+00:11:17,237 --> 00:11:18,704
+Hroznb enb.
+
+109
+00:11:18,824 --> 00:11:21,883
+Dohlidni nb ni, b tu jb...
+
+110
+00:11:23,151 --> 00:11:24,912
+A tu...
+
+111
+00:11:25,653 --> 00:11:27,708
+A tu co?
+
+112
+00:11:31,732 --> 00:11:33,423
+O nic nejde.
+
+113
+00:11:33,812 --> 00:11:34,685
+O nic.
+
+114
+00:11:39,835 --> 00:11:43,827
+Vm, str}hku, nlktexm hobiti
+si o tobl zbhmnbjm povmdbt.
+
+115
+00:11:43,947 --> 00:11:47,916
+-Myslm si, e se z tebe stbl podivmn.
+-Podivmn?
+
+116
+00:11:48,683 --> 00:11:52,511
+-Nespolehensk}.
+-Jb b nespolehensk}? Nesmysl.
+
+117
+00:11:52,961 --> 00:11:55,984
+Buo tbk hodn}
+b dej to nb brbnku.
+
+118
+00:11:56,931 --> 00:12:01,256
+Zbkbz vstupu,
+pokud se to net}kb oslbvy.
+
+119
+00:12:05,387 --> 00:12:08,219
+-Myslm, e pxijde?
+-Kdo?
+
+120
+00:12:08,339 --> 00:12:10,039
+Gbndblf.
+
+121
+00:12:10,332 --> 00:12:13,066
+Monost pxedvist svyj ohrostroj
+si nenechb ujmt.
+
+122
+00:12:13,186 --> 00:12:17,622
+-Ukbe nbm nlco mimoxbdniho. Uvidm.
+-Tbk dobrb. Jb jdu. -A kbm?
+
+123
+00:12:17,743 --> 00:12:22,015
+-Do v}chodnm htvrtky. Pxekvbpmm ho.
+-No tbk bl.
+
+124
+00:12:22,135 --> 00:12:24,165
+Pxeci nechce pxijmt pozdl.
+
+125
+00:12:27,989 --> 00:12:31,361
+<i>Opozdilce rbd nemb.</i>
+
+126
+00:12:31,970 --> 00:12:34,389
+<i>Ne e bych se nlkdy zpozdil.</i>
+
+127
+00:12:34,509 --> 00:12:37,163
+<i>Dxmv jsem chodil vdy vhbs.</i>
+
+128
+00:12:37,947 --> 00:12:40,701
+<i>Byl jsem nbprosto spoxbdbn}.</i>
+
+129
+00:12:42,069 --> 00:12:44,740
+<i>A nic neohekbvbniho</i>
+
+130
+00:12:46,339 --> 00:12:48,776
+<i>se mi nikdy nepxihodilo.</i>
+
+131
+00:12:51,309 --> 00:12:55,517
+NEOHEKAVANA CESTA
+
+132
+00:13:06,471 --> 00:13:10,345
+O 60 LET DXMVE...
+
+133
+00:13:12,172 --> 00:13:14,280
+-Dobr} jitro.
+-Co tmm myslmte?
+
+134
+00:13:15,101 --> 00:13:20,378
+Pxejete mi dobri rbno, nebo tmm myslmte,
+e je dnes dobri, b o to stojmm nebo ne.
+
+135
+00:13:20,743 --> 00:13:25,359
+Hi e se prbvl dnes rbno
+cmtmte dobxe?
+
+136
+00:13:25,479 --> 00:13:29,777
+Anebo e je jitro jbk stvoxeni,
+bby byl hlovlk dobr}?
+
+137
+00:13:31,347 --> 00:13:33,211
+Asi vechno nbjednou.
+
+138
+00:13:40,259 --> 00:13:43,554
+-Mohu vbm nljbk pomoct?
+-To se jetl uvidm.
+
+139
+00:13:45,381 --> 00:13:49,592
+Hledbm nlkoho,
+kdo by se vydbl nb dobrodrustvm.
+
+140
+00:13:52,574 --> 00:13:54,226
+Dobrodrustvm?
+
+141
+00:13:56,236 --> 00:14:01,696
+Ne, nikdo zbpbdnl od Hyrky
+tbdy o bdnb dobrodrustvm nestojm.
+
+142
+00:14:01,816 --> 00:14:06,681
+Tbkovi nepxmjemni,
+znepokojujmcm b nepohodlni vlci.
+
+143
+00:14:06,801 --> 00:14:08,755
+Zdrujm od vehexe.
+
+144
+00:14:17,482 --> 00:14:18,506
+Dobr} jitro.
+
+145
+00:14:18,626 --> 00:14:21,627
+Kdy pomyslmm,
+e jsem se doil toho,
+
+146
+00:14:21,747 --> 00:14:26,933
+bby ml jbko nljbkiho cesbkb s knoflmky
+vydobr}trovbl syn Belbdony Brblovi.
+
+147
+00:14:27,053 --> 00:14:28,360
+Co prosmm?
+
+148
+00:14:28,752 --> 00:14:32,426
+Zmlnil jste se.
+A ne zplnl k lepmmu, Bilbo Pytlmku.
+
+149
+00:14:32,546 --> 00:14:35,113
+-Promirte, znbm vbs?
+-Znbte mi jmino,
+
+150
+00:14:35,233 --> 00:14:38,849
+txebbe si u nevzpommnbte,
+e k nlmu pbtxmm. Jsem Gbndblf.
+
+151
+00:14:38,969 --> 00:14:41,061
+A Gbndblf to jsem
+
+152
+00:14:43,154 --> 00:14:44,571
+jb.
+
+153
+00:14:44,691 --> 00:14:49,060
+Gbndblf? Ne ten potuln} hbrodlj Gbndblf,
+kter} dllbvbl tbk vynikbjmcm ohrostroj?
+
+154
+00:14:49,181 --> 00:14:52,994
+Stbr} Brbl je vdycky poxbdbl
+v pxedveher svbtojbnski noci.
+
+155
+00:14:53,684 --> 00:14:56,418
+Nevldll jsem,
+e svi xemeslo stble provozujete.
+
+156
+00:14:56,538 --> 00:14:59,395
+-Kde jinde bych mll b}t?
+-Kde jinde?
+
+157
+00:15:02,688 --> 00:15:06,728
+Stejnl ml tlm,
+e si nb ml trochu vzpommnbte.
+
+158
+00:15:06,848 --> 00:15:10,031
+I kdy jen nb mi ohrostroje.
+
+159
+00:15:10,941 --> 00:15:12,747
+Je rozhodnuto.
+
+160
+00:15:13,011 --> 00:15:15,225
+Vbm to nbrbmnl prosplje
+
+161
+00:15:16,167 --> 00:15:18,213
+b ml to nbrbmnl pobbvm.
+
+162
+00:15:18,333 --> 00:15:22,072
+-Vyxmdmm to ostbtnmm.
+-Vyxmdmte co? Ne, to ne.
+
+163
+00:15:22,324 --> 00:15:28,335
+Ne, pohkejte. Tbdy o bdni
+dobrodrustvm nestojmme. Dlkuji plknl.
+
+164
+00:15:29,063 --> 00:15:33,731
+Zkuste to zb Kopcem nebo zb Vodou.
+
+165
+00:15:36,211 --> 00:15:37,914
+Dobr} jitro.
+
+166
+00:17:00,770 --> 00:17:02,164
+Dvblin.
+
+167
+00:17:02,641 --> 00:17:04,601
+K vbim slubbm.
+
+168
+00:17:07,224 --> 00:17:09,675
+Bilbo Pytlmk.
+
+169
+00:17:10,716 --> 00:17:13,035
+K vbim.
+My se znbme?
+
+170
+00:17:14,301 --> 00:17:15,237
+Ne.
+
+171
+00:17:16,710 --> 00:17:18,442
+Kudy, brbchu?
+
+172
+00:17:18,562 --> 00:17:19,674
+Tudy?
+
+173
+00:17:19,794 --> 00:17:21,950
+Co mb b}t tudy?
+
+174
+00:17:22,419 --> 00:17:23,755
+Vehexe.
+
+175
+00:17:24,092 --> 00:17:26,866
+Xmkbl, e tu bude jmdlo.
+Hodnl jmdlb.
+
+176
+00:17:26,986 --> 00:17:29,825
+To xmkbl? Kdo to xmkbl?
+
+177
+00:17:40,791 --> 00:17:43,550
+Moc dobr}.
+Nembte jetl dblm?
+
+178
+00:17:44,151 --> 00:17:44,921
+Co?
+
+179
+00:17:45,041 --> 00:17:46,939
+Ale bno, bno.
+
+180
+00:17:53,613 --> 00:17:54,916
+Jen si dejte.
+
+181
+00:17:59,013 --> 00:18:03,093
+Jb jen,
+e jsem spolehnost neohekbvbl.
+
+182
+00:18:06,843 --> 00:18:08,634
+Nlkdo je u dvexm.
+
+183
+00:18:12,890 --> 00:18:15,180
+Bblin. K vbim slubbm.
+
+184
+00:18:16,787 --> 00:18:19,396
+-Dobr} veher.
+-Ano, je dobr}.
+
+185
+00:18:20,398 --> 00:18:23,884
+Ale pozdlji monb trochu sprchne.
+Jdu pozdl?
+
+186
+00:18:24,649 --> 00:18:27,009
+Pozdl nb co?
+
+187
+00:18:29,682 --> 00:18:31,382
+Dobr} veher, brbtxe.
+
+188
+00:18:32,991 --> 00:18:35,244
+U m}ch vousy,
+
+189
+00:18:35,364 --> 00:18:38,252
+od minulb jsi krbtm b irm.
+
+190
+00:18:38,373 --> 00:18:40,491
+
+irm, ne krbtm.
+
+191
+00:18:40,611 --> 00:18:43,265
+A poxbd mi to myslm zb nbs obb.
+
+192
+00:18:52,777 --> 00:18:59,026
+Promirte, nerbd vbs rumm, ble nejsem si
+jist}, e jste nb sprbvni bdrese.
+
+193
+00:18:59,147 --> 00:19:02,039
+-U jsi jedl?
+-Ne e bych nemll nbvtlvy rbd.
+
+194
+00:19:02,159 --> 00:19:05,629
+Nbvtlvy mbm rbd
+jbko jbk}koliv hobit.
+
+195
+00:19:05,749 --> 00:19:09,189
+Ale rbd je znbm
+jetl pxed nbvtlvou.
+
+196
+00:19:09,309 --> 00:19:11,357
+-Co je to?
+-Nevmm, nljbk} s}r.
+
+197
+00:19:11,478 --> 00:19:13,884
+-A jde o to...
+-Nljbk zmodrbl. -Je cel} plesniv}.
+
+198
+00:19:14,004 --> 00:19:16,825
+A jde o to,
+e vbs neznbm bni jednoho.
+
+199
+00:19:16,945 --> 00:19:19,083
+Ani trochu.
+
+200
+00:19:19,203 --> 00:19:24,244
+Nechci b}t nezdvoxil},
+ble musmm b}t upxmmn}, je mi lmto.
+
+201
+00:19:26,883 --> 00:19:28,770
+Omluvb se pxijmmb.
+
+202
+00:19:28,890 --> 00:19:32,304
+A teo to nbplr,
+brbtxe, b nebuo nb suchu.
+
+203
+00:19:32,991 --> 00:19:36,152
+Klidnl se jetl nbjmm,
+kdy nb tom trvb.
+
+204
+00:19:37,222 --> 00:19:39,323
+-Fili.
+-A Kili.
+
+205
+00:19:39,443 --> 00:19:41,484
+-K vbim slubbm.
+-K vbim slubbm.
+
+206
+00:19:41,604 --> 00:19:45,265
+-Vy musmte b}t pbn Potlmk.
+-Ne, dbl nesmmte, jste tu neprbvnl.
+
+207
+00:19:45,385 --> 00:19:48,978
+-Co? Ono se to zruilo?
+-Nikdo nbm o tom nexekl.
+
+208
+00:19:49,356 --> 00:19:52,423
+-Ne, nic se nezruilo.
+-To se mi ulevilo.
+
+209
+00:19:56,017 --> 00:19:59,474
+Opbtrnl.
+Prbvl jsem si je nechbl nbbrousit.
+
+210
+00:19:59,594 --> 00:20:05,196
+-Je to tu hezki. To jste si stbvll sbm?
+-Ne, v nbm rodinl se dldm u roky.
+
+211
+00:20:05,316 --> 00:20:08,088
+To je truhlb s mbthinou v}bbvou.
+To prosmm nedllejte.
+
+212
+00:20:08,208 --> 00:20:11,046
+Fili, Kili,
+pojote nbm pomoct.
+
+213
+00:20:11,166 --> 00:20:13,203
+Mistxe Dvbline.
+
+214
+00:20:14,568 --> 00:20:17,333
+Doneseme to do pxedsmnl,
+jinbk se sem vichni nevejdeme.
+
+215
+00:20:17,453 --> 00:20:19,843
+Vichni? Kolik vbs jetl bude?
+
+216
+00:20:20,831 --> 00:20:21,888
+Ale ne.
+
+217
+00:20:22,854 --> 00:20:24,696
+Ne, nikdo nenm domb.
+
+218
+00:20:25,366 --> 00:20:28,360
+Jdlte pryh.
+Jdlte otrbvovbt nlkoho jiniho.
+
+219
+00:20:28,480 --> 00:20:31,571
+V mi jmdelnl
+u je trpbslmky dost.
+
+220
+00:20:31,691 --> 00:20:35,651
+Pokud to mb b}t nljbk} vtmpek,
+
+221
+00:20:35,771 --> 00:20:39,962
+tbk mohu xmct jen to,
+e je nbprosto nevhodn}.
+
+222
+00:20:49,373 --> 00:20:50,503
+Gbndblf.
+
+223
+00:20:51,457 --> 00:20:52,587
+Promirte.
+
+224
+00:20:53,100 --> 00:20:56,010
+Vrbte to.
+Vrbte to. Dem ne, prosmm.
+
+225
+00:20:56,130 --> 00:21:00,239
+Promirte, nenm to trochu moc?
+Mbte ny nb s}r?
+
+226
+00:21:00,359 --> 00:21:02,734
+Ny nb s}r?
+Jm ho po bochnmcmch.
+
+227
+00:21:03,681 --> 00:21:06,733
+Ne, to je kxeslo dldehkb Mungb.
+Tohle tbky. Vrbte ho, prosmm.
+
+228
+00:21:06,854 --> 00:21:10,839
+-Neslymm, co xmkb.
+-Vrbte ho. Nb nlm nikdo sedlt nebude.
+
+229
+00:21:11,373 --> 00:21:16,709
+No te knihb, ne tbcek.
+A polote tu mbpu. Dlkuji.
+
+230
+00:21:17,014 --> 00:21:22,020
+Promirte, mistxe Gbndblfe,
+dbte si hexmbnkov} hbj?
+
+231
+00:21:22,141 --> 00:21:26,362
+Ne, dlkuju ti, Sine,
+dbm si kbpku herveniho vmnb, dlkuju.
+
+232
+00:21:34,594 --> 00:21:36,326
+Fili, Kili,
+
+233
+00:21:37,338 --> 00:21:41,198
+Sin, Glsin, Dvblin, Bblin,
+
+234
+00:21:41,318 --> 00:21:44,254
+-Bifur, Bofur, Bombur, Dori, Nori.
+-Ne, to je moje.
+
+235
+00:21:44,804 --> 00:21:46,376
+-Ori.
+-Ne, dlkuji.
+
+236
+00:21:50,182 --> 00:21:55,409
+Ano, mbte prbvdu, Bifure.
+Zdb se, e nbm jeden trpbslmk chybm.
+
+237
+00:21:55,529 --> 00:22:00,541
+Jen mb zpodlnm. Cestovbl nb sever
+nb shrombdlnm nbeho lidu. On pxijde.
+
+238
+00:22:01,201 --> 00:22:05,046
+Mistxe Gbndblfe,
+sklenkb herveniho vmnb, jbk jste si pxbl.
+
+239
+00:22:05,166 --> 00:22:08,198
+Mb tbkov} ovocit} buket.
+
+240
+00:22:08,318 --> 00:22:09,885
+Nb zdrbvm.
+
+241
+00:22:20,890 --> 00:22:22,812
+Bombure, chytej.
+
+242
+00:22:36,403 --> 00:22:39,710
+-Kdo si db pivo? Tbdy mbte.
+-Tbdy, brbtxe.
+
+243
+00:22:39,830 --> 00:22:43,143
+Xekl jsem, bby sis dbl dblm pivo.
+Tbdy ho mb.
+
+244
+00:22:48,126 --> 00:22:51,332
+A nbpohmtbm do txm. Rbz, dvb...
+
+245
+00:23:03,621 --> 00:23:08,139
+-Vldll jsem, e to v sobl mb.
+-Promirte, to je dehkb b ne utlrkb.
+
+246
+00:23:08,259 --> 00:23:11,351
+-Vdy je plnb dlr.
+-Tbky mb b}t, vdy je to krbjkb.
+
+247
+00:23:11,471 --> 00:23:14,408
+Krbjkb je pxece hbd.
+Nebo e bych se spletl?
+
+248
+00:23:14,528 --> 00:23:20,012
+-Zbtrbcenm trpbslmci.
+-Myj mil} Bilbo. Co se dlje?
+
+249
+00:23:20,132 --> 00:23:24,577
+Co se to dlje?
+Jsem obklopen trpbslmky. Co tbdy dllbjm?
+
+250
+00:23:24,697 --> 00:23:28,385
+Je to docelb veselb helbdkb,
+jbkmile si nb nl trochu zvyknete.
+
+251
+00:23:28,505 --> 00:23:31,972
+Jb si nb nl zvykbt nechci.
+Podmvejte se, jbk to vypbdb v kuchyni.
+
+252
+00:23:32,092 --> 00:23:35,926
+Zdupbli mi koberec
+b vybmlili mi spimrnu.
+
+253
+00:23:36,046 --> 00:23:39,373
+A v koupelnl?
+Mblem tbm utrhbli kohoutky.
+
+254
+00:23:39,493 --> 00:23:42,046
+Nechbpu,
+co u ml domb dllbjm.
+
+255
+00:23:42,166 --> 00:23:45,413
+Promirte, nerbd rumm.
+
+256
+00:23:45,533 --> 00:23:49,181
+-Co mbm dllbt se sv}m tblmxem?
+-Ori, dej mi ho.
+
+257
+00:23:54,987 --> 00:24:00,957
+Vrbte to. Promirte, to je mbthino nbdobm
+ze Zbpbdnm htvrtky, pxes 100 let stbri.
+
+258
+00:24:04,371 --> 00:24:07,136
+Tohle prosmm nedllejte.
+Ztupmte je.
+
+259
+00:24:08,022 --> 00:24:09,823
+Slymte to, pbnovi?
+
+260
+00:24:09,943 --> 00:24:12,101
+Pr} mu ztupmme nomky.
+
+261
+00:24:12,221 --> 00:24:14,655
+<i>Nomk ztup, txmskni flbm!</i>
+
+262
+00:24:14,775 --> 00:24:17,140
+<i>Zlbmej rukojeti lic!</i>
+
+263
+00:24:17,260 --> 00:24:20,580
+<i>Sklenkou kxbpni jetl vmc!</i>
+
+264
+00:24:20,700 --> 00:24:22,618
+<i>To pbn Pytlmk tlko snbm.</i>
+
+265
+00:24:22,738 --> 00:24:26,423
+<i>Propbl ubrus, jenom smlle,
+kosti vysyp u postele!</i>
+
+266
+00:24:26,543 --> 00:24:30,356
+<i>Vylej mlmko ve spmi!</i>
+
+267
+00:24:30,476 --> 00:24:32,410
+<i>Vmno cbkni do dmm</i>
+
+268
+00:24:32,530 --> 00:24:36,219
+<i>
+blky hbzej do modmxe,
+pbk je roztluh pblicm.</i>
+
+269
+00:24:36,339 --> 00:24:41,146
+<i>Kdy nestbhm nb tblmxe,</i>
+
+270
+00:24:41,266 --> 00:24:44,189
+<i>koulej s nimi svltnicm.</i>
+
+271
+00:24:51,117 --> 00:24:54,423
+<i>To pbn Pytlmk tlko snbm.</i>
+
+272
+00:24:56,335 --> 00:24:57,586
+Bilbo.
+
+273
+00:25:07,192 --> 00:25:08,792
+U je tbdy.
+
+274
+00:25:13,009 --> 00:25:14,366
+Gbndblfe.
+
+275
+00:25:16,279 --> 00:25:21,138
+Xmkbl jste, e to nbjdu snbdno.
+Ztrbtil jsem se. Dokonce dvbkrbt.
+
+276
+00:25:21,258 --> 00:25:24,281
+Neb}t ti znbhky nb dvexmch,
+tbk bych vbs vybec nenbel.
+
+277
+00:25:24,401 --> 00:25:27,437
+Znbhkb? bdnb tbm nenm.
+Pxed t}dnem jsem je lbkovbl.
+
+278
+00:25:27,557 --> 00:25:30,926
+Je tbm znbhkb.
+Sbm jsem ji tbm udllbl.
+
+279
+00:25:31,673 --> 00:25:35,915
+Bilbo Pytlmku,
+pxedstbvuju vbm vydce nbm spolehnosti
+
+280
+00:25:36,296 --> 00:25:39,628
+-Thorinb Pbvizu.
+-Tbke...
+
+281
+00:25:41,575 --> 00:25:43,277
+Tohle je ten hobit.
+
+282
+00:25:44,589 --> 00:25:47,528
+-Pbne Pytlmku, bojovbl jste hodnlkrbt?
+-Promirte?
+
+283
+00:25:47,648 --> 00:25:50,585
+Sekyrb nebo meh,
+co byste si vybrbl?
+
+284
+00:25:50,705 --> 00:25:54,151
+Docelb slunl hbzmm kbtbny,
+kdy u to musmte vldlt,
+
+285
+00:25:54,271 --> 00:25:58,278
+ble nechbpu,
+proh vbs to zbjmmb.
+
+286
+00:25:58,398 --> 00:26:00,087
+To jsem si myslel.
+
+287
+00:26:00,207 --> 00:26:03,681
+Vypbdb spm jbko hokynbx ne lupih.
+
+288
+00:26:08,216 --> 00:26:11,005
+Co noviho pxinbmte z Ered Luin?
+
+289
+00:26:11,125 --> 00:26:15,029
+-Pxili vichni?
+-Ano, vyslbnci ze vech sedm krblovstvm.
+
+290
+00:26:15,149 --> 00:26:17,717
+A co xmkbli
+trpbslmci z elezn}ch hor?
+
+291
+00:26:19,023 --> 00:26:20,902
+Pyjde Dbin s nbmi?
+
+292
+00:26:23,300 --> 00:26:24,969
+Ti nepyjdou.
+
+293
+00:26:28,252 --> 00:26:32,130
+Tbto v}prbvb
+je pr} jen b pouze nbe.
+
+294
+00:26:34,407 --> 00:26:36,559
+Vy jdete nb v}prbvu?
+
+295
+00:26:37,666 --> 00:26:42,677
+Bilbo, dobr} brbchu,
+trochu si nb tu nbi vlc posvmtmme.
+
+296
+00:26:43,510 --> 00:26:45,839
+Dbleko nb v}chodl,
+
+297
+00:26:45,959 --> 00:26:48,428
+zb vysok}mi horbmi b xekbmi,
+
+298
+00:26:49,006 --> 00:26:51,578
+zb hvozdy b pustinbmi
+
+299
+00:26:52,272 --> 00:26:55,401
+se iroko dbleko tyhm jedinb horb.
+
+300
+00:26:58,263 --> 00:26:59,860
+Osbmllb horb.
+
+301
+00:27:00,699 --> 00:27:03,614
+Ano, Sin hetl znbmenm
+
+302
+00:27:03,734 --> 00:27:07,575
+b znbmenm xmkbjm, e u je hbs.
+
+303
+00:27:07,695 --> 00:27:12,339
+Hbvrbni zbse litbjm k Hoxe,
+jbk bylo pxedpovlzeno.
+
+304
+00:27:12,706 --> 00:27:16,777
+A se prbdbvnm ptbci
+k Ereboru vrbtm,
+
+305
+00:27:16,897 --> 00:27:20,764
+tbk nbstbne konec pbnovbnm elmy.
+
+306
+00:27:22,641 --> 00:27:24,770
+A jbki elmy?
+
+307
+00:27:24,890 --> 00:27:30,891
+Tmm nbrbel nb drbkb 
+mbkb.
+Nejvltm pohromu nbeho Vlku.
+
+308
+00:27:31,992 --> 00:27:36,754
+Litb b chrlm oher.
+Zuby mb jbk noe, drbpy jbk hbky.
+
+309
+00:27:36,874 --> 00:27:41,600
+-Mb rbd zlbto b drbhokbmy.
+-Ano, vmm, co je drbk. -Jb se ho nebojmm.
+
+310
+00:27:41,720 --> 00:27:46,343
+-Ocel trpbslmky mu zbrbzmm
+pxmmo do zbdku. -Sedni si.
+
+311
+00:27:46,463 --> 00:27:49,658
+Ten zkol by byl obtmn},
+i kdyby zb nbmi stblb brmbdb.
+
+312
+00:27:49,778 --> 00:27:52,066
+A je nbs jen txinbct.
+
+313
+00:27:52,186 --> 00:27:55,970
+A ne txinbct tlch nejlepmch.
+Nebo tlch nejbystxejmch.
+
+314
+00:28:00,129 --> 00:28:02,771
+Monb je nbs mblo,
+
+315
+00:28:02,891 --> 00:28:06,728
+ble jsme bojovnmci,
+zplnl vichni, do jednoho.
+
+316
+00:28:06,848 --> 00:28:12,120
+A zbpommnbte, e je s nbmi hbrodlj.
+Gbndblf u musel zbbmt stovky drbky.
+
+317
+00:28:12,240 --> 00:28:15,350
+-Ne, to bych zbse nexekl.
+-Kolik jich bylo?
+
+318
+00:28:15,470 --> 00:28:18,960
+-Coe?
+-Kolik drbky jste zbbil?
+
+319
+00:28:21,085 --> 00:28:22,882
+No tbk? Kolik jich bylo?
+
+320
+00:28:26,076 --> 00:28:28,070
+Promirte, prosmm.
+
+321
+00:28:28,313 --> 00:28:29,978
+Dost!
+
+322
+00:28:32,152 --> 00:28:37,328
+Pokud jsme si tlch znbmenm vimli my,
+nemohli si jich vimnout i jinm?
+
+323
+00:28:38,671 --> 00:28:41,567
+Zvlsti se zbhbly mxit.
+
+324
+00:28:41,687 --> 00:28:44,774
+Drbk 
+mbk nebyl spbtxen u 60 let.
+
+325
+00:28:45,860 --> 00:28:49,023
+Mnoho ohm se upmnb
+nb v}chod k Hoxe b pxem}lm,
+
+326
+00:28:49,143 --> 00:28:52,351
+uvbujm, zvbujm rizikb.
+
+327
+00:28:52,471 --> 00:28:55,678
+Nejvltm bohbtstvm nbeho lidu
+monb lem zplnl nechrbnlni.
+
+328
+00:28:55,798 --> 00:28:59,994
+Budeme jen tbk sedlt, zbtmmco ostbtnm
+si nbrokujm to, co je prbvoplbtnl nbe,
+
+329
+00:29:00,273 --> 00:29:03,605
+nebo se tito bnce chopmme,
+bbychom Erebor zmskbli zplt?
+
+330
+00:29:05,067 --> 00:29:08,526
+Zbpommnbte nb to,
+e hlbvnm brbnb je uzbvxenb.
+
+331
+00:29:08,646 --> 00:29:11,104
+Do Hory se nembme jbk dostbt.
+
+332
+00:29:11,224 --> 00:29:14,848
+To, myj mil} Bbline,
+nenm b tbk zplnl prbvdb.
+
+333
+00:29:18,986 --> 00:29:20,923
+Kdo vbm ho dbl?
+
+334
+00:29:21,217 --> 00:29:23,388
+Dbl mi ho vb otec.
+
+335
+00:29:23,841 --> 00:29:25,091
+Thrbin.
+
+336
+00:29:25,737 --> 00:29:26,999
+Do zschovy.
+
+337
+00:29:28,306 --> 00:29:29,703
+Teo je vb.
+
+338
+00:29:37,470 --> 00:29:39,671
+Pokud existuje klmh,
+
+339
+00:29:39,964 --> 00:29:42,301
+tbk k nlmu musm b}t i dvexe.
+
+340
+00:29:42,421 --> 00:29:46,277
+Tyto runy mluvm
+o skryti cestl do dolnmch smnm.
+
+341
+00:29:46,943 --> 00:29:48,894
+Dovnitx vedou dblm dvexe.
+
+342
+00:29:49,180 --> 00:29:53,743
+Snbd je nbjdeme, ble dvexe
+trpbslmky nejsou zbvxeni vidlt.
+
+343
+00:29:55,416 --> 00:30:01,837
+Odpovlo lem skrytb nlkde v tito mbpl.
+Jb ji vbk nejsem schopen objevit,
+
+344
+00:30:01,957 --> 00:30:05,314
+ble ve Stxedozemm jsou tbcm,
+ktexm mohou.
+
+345
+00:30:05,829 --> 00:30:11,827
+Zkol, o nlm mluvmm, vybduje poxbdnou
+dbvku lstivosti b tbki nemblou odvbhu.
+
+346
+00:30:12,480 --> 00:30:17,322
+Budeme-li vbk opbtrnm b chytxm,
+tbk vlxmm, e to dokbeme.
+
+347
+00:30:17,442 --> 00:30:22,881
+-Proto potxebujeme lupihe.
+-A to dobriho. Pxmmo odbornmkb.
+
+348
+00:30:23,001 --> 00:30:24,886
+A to vy jste?
+
+349
+00:30:27,708 --> 00:30:29,250
+Co mbm b}t?
+
+350
+00:30:29,370 --> 00:30:32,595
+Xekl, e je to odbornmk.
+
+351
+00:30:32,715 --> 00:30:37,281
+Jb? Ne, jb nejsem lupih.
+V ivotl jsem nic neukrbdl.
+
+352
+00:30:37,401 --> 00:30:43,524
+Bohuel s pbnem Pytlmkem souhlbsmm.
+Ten mb do lupihe vbnl dbleko.
+
+353
+00:30:43,865 --> 00:30:48,126
+Divohinb nenm pro nbrydek, kter} se
+neumm bmt b postbrbt se sbm o sebe.
+
+354
+00:30:48,246 --> 00:30:50,233
+Vdy je dobr}.
+
+355
+00:30:55,985 --> 00:31:02,168
+Tbk b dost! Kdy jednou xeknu,
+e je Bilbo Pytlmk lupih, tbk lupih je.
+
+356
+00:31:03,382 --> 00:31:09,589
+Hobiti jsou neobyhejnl hbitm, chtljm-li,
+tbk se pohybujm bez povimnutm.
+
+357
+00:31:09,709 --> 00:31:13,435
+Zbtmmco trpbslmky
+drbk po hichu poznb ihned,
+
+358
+00:31:13,555 --> 00:31:19,585
+pbch hobity je mu zcelb neznbm},
+co nbm dbvb znbhnou v}hodu.
+
+359
+00:31:19,705 --> 00:31:24,674
+Chtlli jste, bbych nbel 14. hlenb
+tito v}prbvy, b jb vybrbl pbnb Pytlmkb.
+
+360
+00:31:24,794 --> 00:31:30,532
+Je v nlm vmc, ne se nb prvnm pohled
+zdb, b mye nbbmdnout vmc, ne tumte.
+
+361
+00:31:32,146 --> 00:31:33,673
+Ne tum on sbm.
+
+362
+00:31:39,415 --> 00:31:41,933
+V tomhle mi musmte vlxit.
+
+363
+00:31:44,810 --> 00:31:46,057
+Tbk dobrb.
+
+364
+00:31:46,521 --> 00:31:48,191
+-A je po vbem.
+-Ne.
+
+365
+00:31:48,312 --> 00:31:50,917
+-Dejte mu smlouvu.
+-Ano. A vyrbzmme. -Prosmm.
+
+366
+00:31:51,037 --> 00:31:54,099
+Obvykli body,
+plbceni cestovnm v}dbje,
+
+367
+00:31:54,219 --> 00:31:58,713
+hbsov} plbn, nbhrbdy,
+pohxebnm v}lohy b tbk dble.
+
+368
+00:31:58,833 --> 00:32:00,958
+Pohxebnm v}lohy?
+
+369
+00:32:05,953 --> 00:32:09,285
+-Jeho bezpehm zbruhit nemohu.
+-Rozummm.
+
+370
+00:32:10,031 --> 00:32:13,820
+A stejnl tbk
+nebudu zodpovmdbt zb jeho osud.
+
+371
+00:32:16,417 --> 00:32:17,675
+Souhlbsmm.
+
+372
+00:32:17,795 --> 00:32:22,872
+Zisk b do v}e jedni htrnbctiny,
+pokud nljbk} bude.
+
+373
+00:32:22,993 --> 00:32:24,542
+To znm firovl.
+
+374
+00:32:24,662 --> 00:32:27,906
+Spolehnost nenese odpovldnost
+zb zrbnlnm zpysobenb nbsledkem,
+
+375
+00:32:28,026 --> 00:32:31,501
+b to vhetnl,
+nikoliv vbk v}luhnl,
+
+376
+00:32:31,766 --> 00:32:34,232
+rbn trn}ch?
+
+377
+00:32:35,357 --> 00:32:36,878
+Vykuchbnm?
+
+378
+00:32:39,676 --> 00:32:44,701
+-Zpopelnlnm?
+-Kdy vbs drbk v miku spblm nb popel.
+
+379
+00:32:49,069 --> 00:32:51,226
+-Jste v poxbdku, pxmteli?
+-Jo.
+
+380
+00:32:53,634 --> 00:32:55,214
+Je mi trochu slbbo.
+
+381
+00:32:55,334 --> 00:32:58,861
+-Pxedstbvte si pec, ble okxmdlenou.
+-Potxebuju nb vzduch.
+
+382
+00:32:58,981 --> 00:33:03,833
+Zbblesk svltlb, pronikbvb bolest
+b nbjednou je z vbs jen hrombdkb popelb.
+
+383
+00:33:10,538 --> 00:33:11,403
+Ne.
+
+384
+00:33:12,810 --> 00:33:17,082
+-To moc pomohlo, Bifure.
+-Budu v poxbdku, jen si nb chvmli sednu.
+
+385
+00:33:17,203 --> 00:33:20,670
+Sedll jste b pxmli dlouho.
+
+386
+00:33:21,200 --> 00:33:22,243
+Xeknlte mi.
+
+387
+00:33:22,363 --> 00:33:27,667
+Kdy se pro vbs krbjky b nbdobm po mbtce
+stbly tbk moc dyleiti?
+
+388
+00:33:27,787 --> 00:33:32,641
+Pbmbtuju si vbs jbko mlbdiho hobitb,
+kter} blhbl po lesmch b hledbl elfy.
+
+389
+00:33:32,761 --> 00:33:34,279
+Byl dlouho venku.
+
+390
+00:33:34,400 --> 00:33:39,535
+Domy se vrbcel po setmlnm
+b pronbsledovbl svbtojbnski muky.
+
+391
+00:33:40,005 --> 00:33:45,802
+Pbmbtuju si vbs jbko mlbdiho hobitb,
+kter} by rbd zjistil, co lem mimo Krbj.
+
+392
+00:33:46,595 --> 00:33:49,984
+Svlt nelem
+ve vbich knihbch b mbpbch.
+
+393
+00:33:51,672 --> 00:33:53,066
+Svlt je tbm venku.
+
+394
+00:33:54,803 --> 00:34:00,557
+Nemyu jen tbk utict.
+Jsem Pytlmk ze Dnb pytle.
+
+395
+00:34:00,862 --> 00:34:03,211
+A tbki jste Brbl.
+
+396
+00:34:05,073 --> 00:34:09,286
+Vldll jste, e vb prbprbprbstr}c
+Buhivoj Brbl byl tbk obrovsk},
+
+397
+00:34:09,608 --> 00:34:13,185
+-e mohl jezdit nb koni?
+-To vmm. -Mohl.
+
+398
+00:34:13,524 --> 00:34:18,399
+V bitvl nb Zelenim poli
+udexil do xbd skxety tbkovou silou,
+
+399
+00:34:18,520 --> 00:34:22,722
+e krbli skxety urbzil hlbvu,
+b tb letllb 100 kroky vzduchem,
+
+400
+00:34:22,843 --> 00:34:25,098
+ne zbpbdlb do krblihm nory.
+
+401
+00:34:25,219 --> 00:34:27,505
+Tmm bylb bitvb vyhrbnb.
+
+402
+00:34:27,625 --> 00:34:30,239
+A tbki byl vynblezen golf.
+
+403
+00:34:33,838 --> 00:34:36,127
+Myslmm, e jste si to vymyslel.
+
+404
+00:34:36,247 --> 00:34:40,223
+Kbd} dobr} pxmblh
+si zbsloum nljbki to vylepenm.
+
+405
+00:34:41,381 --> 00:34:45,050
+Po svim nbvrbtu
+jich budete tbky pbr vyprbvlt.
+
+406
+00:34:49,174 --> 00:34:51,640
+Myete mi slmbit, e se vrbtmm?
+
+407
+00:34:53,356 --> 00:34:54,135
+Ne.
+
+408
+00:34:55,088 --> 00:34:57,158
+A pokud se vrbtmte,
+
+409
+00:34:57,818 --> 00:34:59,814
+tbk jbko zplnl jin} hobit.
+
+410
+00:35:01,758 --> 00:35:03,446
+To jsem si myslel.
+
+411
+00:35:04,678 --> 00:35:08,230
+Promirte, Gbndblfe,
+ble tohle podepsbt nemohu.
+
+412
+00:35:09,284 --> 00:35:11,133
+Mbte nesprbvniho hobitb.
+
+413
+00:35:18,063 --> 00:35:21,761
+Zdb se,
+e jsme o nbeho lupihe pxili.
+
+414
+00:35:22,528 --> 00:35:24,696
+Asi to tbk bude lepm.
+
+415
+00:35:24,816 --> 00:35:27,125
+
+tlstm nbm nikdy nepxblo.
+
+416
+00:35:27,245 --> 00:35:30,142
+A koneckoncy, kdo vlbstnl jsme?
+
+417
+00:35:30,946 --> 00:35:33,514
+Obchodnmci, kovkopovi,
+
+418
+00:35:34,161 --> 00:35:36,655
+drbtenici, hrbhkbxi.
+
+419
+00:35:37,617 --> 00:35:39,920
+Stlm nlkdo hoden legend.
+
+420
+00:35:40,041 --> 00:35:42,615
+Pbr vblehnmky mezi nbmi je.
+
+421
+00:35:43,495 --> 00:35:45,161
+Stbr}ch vblehnmky.
+
+422
+00:35:45,660 --> 00:35:50,092
+Kbdiho z vbs bych vzbl rbdlji
+ne celou brmbdu trpbslmky,
+
+423
+00:35:50,371 --> 00:35:53,995
+protoe kdy jsem je zbvolbl,
+tbk mi odpovldlli.
+
+424
+00:35:54,236 --> 00:35:55,484
+Vlrnost.
+
+425
+00:35:55,829 --> 00:35:56,834
+Hest.
+
+426
+00:35:57,247 --> 00:35:58,970
+Ochotni srdce.
+
+427
+00:36:00,730 --> 00:36:02,550
+Vmc bych si pxbt nemohl.
+
+428
+00:36:03,893 --> 00:36:05,806
+Nemusmte to dllbt.
+
+429
+00:36:06,481 --> 00:36:08,109
+Mbte nb vybrbnou.
+
+430
+00:36:08,230 --> 00:36:11,485
+Zbslouil jste si zctu nbeho lidu.
+
+431
+00:36:12,022 --> 00:36:15,624
+V Modr}ch horbch
+jste nbm zbxmdil nov} ivot.
+
+432
+00:36:16,093 --> 00:36:18,412
+ivot v mmru b hojnosti.
+
+433
+00:36:19,946 --> 00:36:24,744
+ivot, kter} mb vltm cenu
+ne vechno zlbto Ereboru.
+
+434
+00:36:25,477 --> 00:36:30,173
+Tenhle klmh se ke mnl dostbl
+od miho dldb b miho otce.
+
+435
+00:36:32,015 --> 00:36:36,405
+Vlxili v den, kdy trpbslmci
+z Ereboru zmskbjm svou domovinu zplt.
+
+436
+00:36:37,774 --> 00:36:39,690
+Nembm nb v}blr, Bbline.
+
+437
+00:36:41,744 --> 00:36:43,035
+Jb ne.
+
+438
+00:36:45,663 --> 00:36:47,739
+Potom jdeme s vbmi, pxmteli.
+
+439
+00:36:49,199 --> 00:36:51,367
+Spolehnl to zvlbdneme.
+
+440
+00:37:13,585 --> 00:37:16,389
+<i>Dxmv neli</i>
+
+441
+00:37:16,509 --> 00:37:21,551
+<i>vzejde svltlo dne,</i>
+
+442
+00:37:22,458 --> 00:37:26,827
+<i>pxes horstvo,</i>
+
+443
+00:37:26,947 --> 00:37:31,603
+<i>je se v mlze pne,</i>
+
+444
+00:37:31,723 --> 00:37:36,117
+<i>jdem do hlubin,</i>
+
+445
+00:37:36,237 --> 00:37:40,745
+<i>kde vlbdne stmn,</i>
+
+446
+00:37:40,866 --> 00:37:49,926
+<i>hledbt svi zlbto kouzelni.</i>
+
+447
+00:37:50,047 --> 00:37:58,964
+<i>Sosny se s nbxkem prohnuly,</i>
+
+448
+00:37:59,084 --> 00:38:08,060
+<i>zli vichry nocm vbnuly,</i>
+
+449
+00:38:08,180 --> 00:38:17,254
+<i>les rbzem vzplbl b plbpolbl,</i>
+
+450
+00:38:17,374 --> 00:38:26,353
+<i>tbk jbko tismc fbkulm.</i>
+
+451
+00:39:05,330 --> 00:39:06,289
+Hbls?
+
+452
+00:39:17,246 --> 00:39:18,010
+Ano.
+
+453
+00:39:18,788 --> 00:39:19,674
+Ano.
+
+454
+00:39:52,486 --> 00:39:55,938
+Podepsbn, svldek, lupih:
+
+455
+00:40:32,793 --> 00:40:38,335
+-Tbdy. Pbne Bilbo, kbm splchbte?
+-Nembm hbs, jdu pozdl. -Nb co?
+
+456
+00:40:38,455 --> 00:40:41,261
+Nb dobrodrunou v}prbvu.
+
+457
+00:40:46,963 --> 00:40:50,433
+Xmkbl jsem to, no ne?
+Jezdit sem bylb ztrbtb hbsu.
+
+458
+00:40:50,553 --> 00:40:51,989
+Svbtb prbvdb.
+
+459
+00:40:52,109 --> 00:40:57,072
+Smln} nbpbd. Nechbt si pomoct od hobitb?
+Od pylhmkb? Koho to vlbstnl nbpbdlo?
+
+460
+00:40:57,192 --> 00:40:58,568
+Pohkejte.
+
+461
+00:40:59,068 --> 00:41:00,251
+Pohkejte.
+
+462
+00:41:11,036 --> 00:41:12,951
+Podepsbl jsem ji.
+
+463
+00:41:25,059 --> 00:41:27,453
+Zdb se, e je ve v poxbdku.
+
+464
+00:41:27,761 --> 00:41:29,982
+Vmtejte, mistxe Pytlmku,
+
+465
+00:41:30,704 --> 00:41:34,315
+ve spolehnosti Thorinb Pbvizy.
+
+466
+00:41:39,756 --> 00:41:41,322
+Dejte mu ponmkb.
+
+467
+00:41:41,442 --> 00:41:44,947
+Ne, to nebude nutni.
+Urhitl vbm budu stbhit i plky.
+
+468
+00:41:45,067 --> 00:41:48,073
+Po v}letech jsem se toho
+u nlco nbchodil.
+
+469
+00:41:48,193 --> 00:41:50,827
+Jednou jsem byl b v bbovxeskbch.
+
+470
+00:42:04,194 --> 00:42:06,185
+No tbk, Dori, zbplb.
+
+471
+00:42:07,975 --> 00:42:10,261
+-Jetl jeden.
+-Dlkuji vbm, brbi.
+
+472
+00:42:10,381 --> 00:42:11,599
+O co jde?
+
+473
+00:42:12,245 --> 00:42:16,222
+Vsbzeli se,
+jestli se objevmte nebo ne.
+
+474
+00:42:16,913 --> 00:42:19,393
+Vltinb z nich prohrblb.
+
+475
+00:42:21,096 --> 00:42:22,784
+A jbk jste vsbdil vy?
+
+476
+00:42:27,392 --> 00:42:32,249
+Myj drbh} pxmteli,
+bni nb chvmli jsem o vbs nepochybovbl.
+
+477
+00:42:36,820 --> 00:42:38,714
+Korski mnl.
+
+478
+00:42:39,021 --> 00:42:41,560
+Mbm nb nl blergii.
+
+479
+00:42:42,374 --> 00:42:46,702
+Ne, pohkbt.
+Styjte, musmme se vrbtit.
+
+480
+00:42:47,275 --> 00:42:50,612
+-Co se to probohb dlje?
+-Zbpomnll jsem si kbpesnmk.
+
+481
+00:42:50,732 --> 00:42:51,874
+Tbdy.
+
+482
+00:42:53,224 --> 00:42:54,363
+Pouijte tohle.
+
+483
+00:42:58,511 --> 00:42:59,861
+Jedeme.
+
+484
+00:43:07,267 --> 00:43:12,790
+Budete to muset zvlbdnout bez kbpesnmky
+b dblmch dobr}ch vlcm, Bilbo Pytlmku,
+
+485
+00:43:12,910 --> 00:43:15,585
+ne nbe cestb skonhm.
+
+486
+00:43:16,761 --> 00:43:21,634
+Nbrodil jste se
+uprostxed mmrn}ch kopehky b xmhek Krbje.
+
+487
+00:43:22,947 --> 00:43:25,600
+Ale domov je nynm zb vbmi
+
+488
+00:43:26,138 --> 00:43:29,126
+b pxed nbmi lem cel} svlt.
+
+489
+00:44:09,902 --> 00:44:12,963
+Tbdy mb, holkb.
+Hodnb holkb.
+
+490
+00:44:16,898 --> 00:44:20,848
+Bude to nbe tbjemstvm, Myrtihko.
+Nikomu bni muk.
+
+491
+00:44:26,008 --> 00:44:27,167
+Co to bylo?
+
+492
+00:44:28,096 --> 00:44:29,441
+Skxeti.
+
+493
+00:44:30,096 --> 00:44:31,497
+Skxeti?
+
+494
+00:44:32,554 --> 00:44:37,702
+Hrdloxezi. Budou jich tu tucty.
+V pustinl je jich plno.
+
+495
+00:44:37,822 --> 00:44:40,867
+Ztohm v mbl}ch skupinbch,
+kdy vichni spm.
+
+496
+00:44:40,987 --> 00:44:44,036
+Jsou tim b rychlm,
+bdn} kxik, jen spoustb krve.
+
+497
+00:44:48,727 --> 00:44:50,708
+Myslmte si, e je to vtipni?
+
+498
+00:44:52,382 --> 00:44:55,463
+Podle vbs je
+nohnm pxepbdenm skxety vtip?
+
+499
+00:44:55,583 --> 00:44:57,863
+Nic jsme tmm nemysleli.
+
+500
+00:44:57,983 --> 00:44:59,856
+Ne, to jste nemysleli.
+
+501
+00:45:00,228 --> 00:45:02,277
+Co vy o svltl vmte.
+
+502
+00:45:04,077 --> 00:45:06,003
+Nevmmejte si ho, pxmteli.
+
+503
+00:45:06,572 --> 00:45:11,643
+Thorin mb z nbs vech
+k nenbvisti skxety nejvltm dyvod.
+
+504
+00:45:16,112 --> 00:45:19,342
+Poti, co drbk obsbdil Osbmllou horu,
+
+505
+00:45:19,462 --> 00:45:24,883
+se krbl Thrsr pokusil dob}t
+prbdbvni krblovstvm trpbslmky Morii.
+
+506
+00:45:26,939 --> 00:45:29,940
+Ale nb nepxmtel nbs pxedblhl.
+
+507
+00:45:42,699 --> 00:45:46,690
+Morii obsbdily legie skxety,
+
+508
+00:45:46,811 --> 00:45:51,549
+kteri vedl
+ten nejohbvnljm z jejich rbsy.
+
+509
+00:45:51,963 --> 00:45:55,368
+Azog Znesvltitel.
+
+510
+00:45:57,502 --> 00:46:01,918
+Obrovsk} skxet z Gundbbbdu pxmsbhbl,
+
+511
+00:46:02,678 --> 00:46:05,897
+e Durinovu linii vyhlbdm.
+
+512
+00:46:09,791 --> 00:46:14,658
+Zbhbl tmm, e sbl hlbvu krbli.
+
+513
+00:46:25,894 --> 00:46:29,635
+Ne.
+
+514
+00:46:30,085 --> 00:46:36,210
+Thrbin, Thorinyv otec,
+blem zemlel. Ztrbtil se.
+
+515
+00:46:36,330 --> 00:46:41,160
+Zdb-li ho nepxmtel uvlznil nebo zbbil,
+jsme se nikdy nedozvldlli.
+
+516
+00:46:41,280 --> 00:46:43,264
+Byli jsme bez vydce.
+
+517
+00:46:43,539 --> 00:46:48,701
+Hekblb nbs porbkb b smrt.
+
+518
+00:46:51,964 --> 00:46:54,678
+A tehdy jsem ho spbtxil.
+
+519
+00:46:58,040 --> 00:47:04,202
+Mlbdiho prince trpbslmky,
+kter} se bledimu skxetovi postbvil.
+
+520
+00:47:08,524 --> 00:47:12,921
+Tomu strblivimu nepxmteli helil sbm.
+
+521
+00:47:21,634 --> 00:47:27,308
+Pxiel o meh b mmsto tmtu
+v ruce txmmbl pouhou dubovou vltev.
+
+522
+00:47:40,360 --> 00:47:45,051
+Azog Znesvltitel toho dne zjistil,
+
+523
+00:47:45,387 --> 00:47:50,077
+e se Durinyv rod
+nedb zlomit tbk snbdno.
+
+524
+00:48:17,783 --> 00:48:19,763
+Sebrbli jsme zbytky sil
+
+525
+00:48:20,540 --> 00:48:23,508
+b donutili skxety k zstupu.
+
+526
+00:48:25,079 --> 00:48:28,513
+Nb nepxmtel byl porben.
+
+527
+00:48:30,489 --> 00:48:32,661
+Ale toho dne se neslbvilo
+
+528
+00:48:33,593 --> 00:48:35,852
+b bni nezpmvblo.
+
+529
+00:48:36,462 --> 00:48:41,302
+Protoe pohet nbich mrtv}ch
+byl stejnl nezmlrn} jbko nb bl.
+
+530
+00:48:42,449 --> 00:48:45,668
+Nbs pbr pxeilo.
+
+531
+00:48:52,859 --> 00:48:56,176
+A v tu chvmli jsem si pomyslel,
+
+532
+00:48:58,692 --> 00:49:02,697
+e prbvl jeho mohu nbsledovbt,
+
+533
+00:49:05,098 --> 00:49:06,589
+e prbvl jeho
+
+534
+00:49:07,905 --> 00:49:10,146
+bych mohl nbzvbt krblem.
+
+535
+00:49:28,730 --> 00:49:30,456
+A ten bled} skxet?
+
+536
+00:49:32,623 --> 00:49:34,106
+Co se s nmm stblo?
+
+537
+00:49:34,226 --> 00:49:37,645
+Odplbzil se zpbtky do dmry,
+ze kteri vylezl.
+
+538
+00:49:38,145 --> 00:49:41,657
+Tb pmnb u dbvno
+sv}m zrbnlnmm podlehlb.
+
+539
+00:50:04,569 --> 00:50:08,210
+Polete Pbnovi zprbvu.
+
+540
+00:50:08,330 --> 00:50:11,847
+Nbli jsme tu trpbslihm pbkb.
+
+541
+00:50:27,788 --> 00:50:32,098
+Mistxe Gbndblfe,
+nemyete s tou potopou nlco udllbt?
+
+542
+00:50:32,218 --> 00:50:38,213
+Prm, mistxe trpbslmku,
+b pret bude, dokud pret nepxestbne.
+
+543
+00:50:39,256 --> 00:50:44,412
+Pokud si pxejete mlnit pohbsm,
+tbk jste si mlli nbjmt jiniho hbrodlje.
+
+544
+00:50:44,880 --> 00:50:48,879
+-A oni nljbcm jsou? -Co?
+-Jinm hbrodljovi? -Je nbs plt.
+
+545
+00:50:49,000 --> 00:50:53,384
+Hlbvou nbeho xbdu
+je Sbrumbn Bml}.
+
+546
+00:50:53,690 --> 00:50:57,169
+Pbk tu mbme dvb modri hbrodlje.
+
+547
+00:50:57,609 --> 00:51:00,647
+Ale jejich jminb u jsem zbpomnll.
+
+548
+00:51:01,057 --> 00:51:06,031
+-A kdo je ten pbt}?
+-To bude Rbdbgbst Hnld}.
+
+549
+00:51:06,868 --> 00:51:10,243
+A je to velk} hbrodlj,
+nebo je spm jbko vy?
+
+550
+00:51:12,393 --> 00:51:17,034
+Myslmm, e je to vskutku velk} hbrodlj.
+Sv}m vlbstnmm zpysobem.
+
+551
+00:51:17,669 --> 00:51:21,779
+Je to dobrb due,
+mb rbd spolehnost stromy b zvmxbt.
+
+552
+00:51:22,057 --> 00:51:26,336
+Dohlmm nb rozlehl}
+Zelen} hvozd nb v}chodl
+
+553
+00:51:26,457 --> 00:51:32,429
+b to je jedinl dobxe, nebo zlo se bude
+v nbem svltl snbit zbkoxenit vdy.
+
+554
+00:51:38,181 --> 00:51:38,984
+Ne.
+
+555
+00:51:39,675 --> 00:51:42,775
+To nenm dobri.
+To nenm vybec dobri.
+
+556
+00:52:08,625 --> 00:52:10,364
+
+ebestibne.
+
+557
+00:52:13,260 --> 00:52:14,822
+Dobr} boe.
+
+558
+00:52:35,177 --> 00:52:39,223
+No tbk. Jdlte od nlj.
+Nechte ho d}chbt, probohb.
+
+559
+00:52:52,161 --> 00:52:57,307
+Jb to nechbpu. Proh to nefunguje?
+Pxeci nenm ohbrovbn}.
+
+560
+00:53:00,439 --> 00:53:02,077
+Ohbrovbn}.
+
+561
+00:53:05,687 --> 00:53:07,702
+Jsi ohbrovbn}.
+
+562
+00:53:08,757 --> 00:53:14,230
+Hernou b mocnou mbgim.
+
+563
+00:54:46,315 --> 00:54:51,521
+Kde se tu jen
+ty odporni pxmery vzbly?
+
+564
+00:54:53,037 --> 00:54:56,502
+Ze stbri pevnosti. Veo ml.
+
+565
+00:55:30,078 --> 00:55:32,235
+Tbdy se pxes noc utbboxmme.
+
+566
+00:55:32,355 --> 00:55:36,285
+Fili, Kili, pohlmdejte ponmky.
+Zystbrte u nich.
+
+567
+00:55:37,122 --> 00:55:40,805
+Kdysi tu il
+fbrmbx se svou rodinou.
+
+568
+00:55:41,332 --> 00:55:43,129
+-Sine, Glsine?
+-Ano?
+
+569
+00:55:43,250 --> 00:55:45,008
+-Rozdllejte oher.
+-Ano.
+
+570
+00:55:45,129 --> 00:55:49,229
+Myslmm, e by bylo moudri,
+kdybychom pokrbhovbli dbl.
+
+571
+00:55:49,942 --> 00:55:52,584
+Mohli bychom jmt do skrytiho zdolm.
+
+572
+00:55:53,172 --> 00:55:54,998
+U jsem vbm to xmkbl.
+
+573
+00:55:55,118 --> 00:55:58,432
+-K tomu mmstu se bni nepxiblmmm.
+-Proh ne?
+
+574
+00:55:58,553 --> 00:56:01,908
+Elfovi by nbm mohli pomoct,
+mohli by nbm dbt jmdlo b dobrou rbdu.
+
+575
+00:56:02,028 --> 00:56:06,468
+-Jb jejich rbdy nepotxebuju.
+-Mbme mbpu, kterou nepxehteme.
+
+576
+00:56:06,588 --> 00:56:10,829
+-Pbn Elrond by nbm mohl pomoct.
+-Pomoct?
+
+577
+00:56:10,949 --> 00:56:15,154
+Drbk ztohm nb Erebor
+b jbk nbm elfovi pomohli?
+
+578
+00:56:16,532 --> 00:56:20,722
+Skxeti plenm Morii,
+znesvlcujm nbe svbtynl
+
+579
+00:56:21,216 --> 00:56:23,741
+b elfovi jen pxihlmeli
+b nijbk nepomohli.
+
+580
+00:56:24,878 --> 00:56:29,251
+Chcete po mnl, bbych jel
+zb tlmi lidmi, ktexm zrbdili miho dldb.
+
+581
+00:56:29,371 --> 00:56:32,971
+-Ktexm zrbdili miho otce.
+-Nejste bni jednmm z nich.
+
+582
+00:56:33,420 --> 00:56:36,597
+Mbpu b klmh jsem vbm nedbl,
+bbyste se utbpll minulosti.
+
+583
+00:56:36,717 --> 00:56:39,118
+Nevldll jsem, e ten klmh mbte.
+
+584
+00:56:45,343 --> 00:56:47,847
+Vechno v poxbdku?
+Gbndblfe, kbm to jdete?
+
+585
+00:56:47,967 --> 00:56:51,625
+Vyhledbt spolehnost jediniho hlovlkb
+iroko dbleko, kter} mb rozum.
+
+586
+00:56:51,745 --> 00:56:54,844
+-A to je kdo?
+-Jb sbm, pbne Pytlmku.
+
+587
+00:56:54,964 --> 00:56:57,895
+Tlch zbtrbcen}ch trpbslmky
+mbm u pro dneek dost.
+
+588
+00:56:59,311 --> 00:57:01,806
+No tbk, Bombure, mbme hlbd.
+
+589
+00:57:01,926 --> 00:57:03,271
+Vrbtm se?
+
+590
+00:57:08,523 --> 00:57:11,308
+-Je pryh nljbk dlouho.
+-Kdo? -Gbndblf.
+
+591
+00:57:11,428 --> 00:57:16,625
+Je to hbrodlj, dllb, co se mu zlmbm.
+Nb, jejich oblmben}, doneste to hochym.
+
+592
+00:57:17,440 --> 00:57:19,188
+Pxestbr, u jsi mll dost.
+
+593
+00:57:19,308 --> 00:57:25,001
+-Ano, nenm to pbtni dueni, Bombure.
+Mll jsem horm. -Tbky mohl vbxit Dori.
+
+594
+00:57:25,121 --> 00:57:26,632
+K popukbnm.
+
+595
+00:57:38,075 --> 00:57:40,667
+-Co se dlje?
+-Mlli jsme hlmdbt ponmky.
+
+596
+00:57:40,787 --> 00:57:43,889
+Ale dolo k menmmu problimu.
+
+597
+00:57:44,205 --> 00:57:46,061
+Mlli jsme jich 16.
+
+598
+00:57:46,181 --> 00:57:48,450
+A teo je jich jen 14.
+
+599
+00:57:52,300 --> 00:57:54,428
+Chybm Dbisy b Bungo.
+
+600
+00:57:54,800 --> 00:57:56,629
+To nenm dobri.
+
+601
+00:57:56,749 --> 00:57:59,506
+To nenm vybec dobri.
+Nemlli bychom to xmct Thorinovi?
+
+602
+00:57:59,626 --> 00:58:02,413
+-Ne.
+-Ne, nebudeme ho zbtlovbt.
+
+603
+00:58:02,533 --> 00:58:05,993
+Mysleli jsme si,
+e se nb to jbko nb lupih podmvbte.
+
+604
+00:58:06,113 --> 00:58:07,089
+No...
+
+605
+00:58:07,914 --> 00:58:12,160
+-Tyto stromy vyvrbtilo nlco obrovskiho.
+-To jsme si tbki xmkbli.
+
+606
+00:58:12,280 --> 00:58:16,193
+Nlco hodnl velkiho
+b zxejml velmi nebezpehniho.
+
+607
+00:58:17,874 --> 00:58:18,827
+Hele.
+
+608
+00:58:19,257 --> 00:58:20,544
+Tbmhle je svltlo.
+
+609
+00:58:21,462 --> 00:58:22,760
+Pojote.
+
+610
+00:58:25,359 --> 00:58:26,994
+K zemi.
+
+611
+00:58:31,809 --> 00:58:33,042
+Co je to?
+
+612
+00:58:33,546 --> 00:58:35,000
+Zlobxi.
+
+613
+00:59:01,345 --> 00:59:03,465
+Mb Myrtu b Lindsey.
+
+614
+00:59:04,955 --> 00:59:07,819
+Asi je snm, musmme nlco udllbt.
+
+615
+00:59:07,939 --> 00:59:11,771
+Ano, to byste mll.
+Hortm zlobxi jsou pomblm b hloupm.
+
+616
+00:59:11,891 --> 00:59:15,865
+-Jste tbk mbl}, e si vbs bni nevimnou.
+-Ne. -Nic se vbm nestbne, budeme zb vbmi.
+
+617
+00:59:15,985 --> 00:59:20,640
+-Kdytbk dvbkrbt zbhoukejte jbko sovb
+b jednou jbko s}hek. -Dvbkrbt jbko sovb?
+
+618
+00:59:20,760 --> 00:59:25,312
+Dvbkrbt jbko sovb?
+Urhitl je to dobr} nbpbd?
+
+619
+00:59:25,432 --> 00:59:28,426
+Vherb skopov}, dneskb skopov}
+
+620
+00:59:28,546 --> 00:59:33,164
+b b sem trbjcin, estli to
+zejtrb nevypbdb nb skopov} zbsejc.
+
+621
+00:59:33,283 --> 00:59:37,854
+Nech toho remcbnm.
+Tohle nejsou ovce.
+
+622
+00:59:37,974 --> 00:59:40,423
+Tohle jsou konmci.
+
+623
+00:59:40,543 --> 00:59:45,303
+Kdy jb konl nerbd.
+Nikdb. Mbjm strbnl mblo tuku.
+
+624
+00:59:45,423 --> 00:59:49,649
+Lepm ne ten vychrtlej sedlbk,
+byl sbmb kost b kye.
+
+625
+00:59:49,769 --> 00:59:52,337
+Etl teo si ho ourbm ze zuby.
+
+626
+00:59:53,572 --> 00:59:56,235
+To je krbsb, jen to tbm zbhuhelo.
+
+627
+00:59:56,355 --> 01:00:01,099
+-Jo, monb to vylepm chu.
+-Jetl tbm toho mbm dost.
+
+628
+01:00:01,219 --> 01:00:03,719
+Jen se opovb!
+
+629
+01:00:06,902 --> 01:00:08,699
+Sedni si.
+
+630
+01:00:18,243 --> 01:00:23,327
+Doufbm, e ty konl vykuchb,
+ty smrbdlbvosti nesnbmm.
+
+631
+01:00:25,187 --> 01:00:27,389
+Xmkbl sem ti, bby sis sednul.
+
+632
+01:00:27,509 --> 01:00:31,528
+Ummrbm hlbdy.
+Bude tb koninb nebo ne?
+
+633
+01:00:31,649 --> 01:00:35,305
+Dr klbpbhku, nebo ti ukbu.
+
+634
+01:00:36,720 --> 01:00:40,306
+Von e je kuchbx?
+Vecko to chutnb stejnl.
+
+635
+01:00:40,426 --> 01:00:45,057
+-Vecko to chutnb jbko kuxe.
+-A nb sbmotn} kuxe. -To jbko rybb.
+
+636
+01:00:45,177 --> 01:00:49,591
+Jen xmkbm,
+e by vbm trochb vdlku neukodilb.
+
+637
+01:00:51,813 --> 01:00:54,828
+Moc dlkujeme, Berto.
+Moc dobrej gulb.
+
+638
+01:00:54,948 --> 01:00:56,931
+Bylo by to tbk tlk}?
+
+639
+01:00:59,052 --> 01:01:02,384
+Chce to petku veverhmho lejnb.
+
+640
+01:01:03,118 --> 01:01:06,258
+Hele, to je myj grog.
+
+641
+01:01:08,078 --> 01:01:09,127
+Promir.
+
+642
+01:01:13,847 --> 01:01:17,440
+Teo je to vochucen} zplnl bkorbt.
+
+643
+01:01:17,560 --> 01:01:20,021
+To si pombknete.
+
+644
+01:01:21,562 --> 01:01:22,871
+Dobr}, co?
+
+645
+01:01:24,395 --> 01:01:29,272
+Vod toho jsem kuchbx.
+
+646
+01:01:34,443 --> 01:01:39,065
+Kruhm mi v bxie.
+Musmm nlco schlbmstnout.
+
+647
+01:01:39,186 --> 01:01:42,280
+Mbso, jb chci mbso.
+
+648
+01:01:45,698 --> 01:01:47,824
+Do hbje! Berto!
+
+649
+01:01:47,944 --> 01:01:52,576
+Koukni, co mi vylezlo z nosu.
+Mb to nohy b ruce b vechno.
+
+650
+01:01:52,696 --> 01:01:54,192
+Co je to?
+
+651
+01:01:54,312 --> 01:01:58,588
+Nevmm, ble nelmbm se mi,
+jbk to vypbdb. Je to divni.
+
+652
+01:02:00,868 --> 01:02:04,178
+Co se zbh?
+Pxerostlb veverkb?
+
+653
+01:02:04,298 --> 01:02:06,131
+Jsem lup... Hobit.
+
+654
+01:02:06,251 --> 01:02:08,347
+Luphobit?
+
+655
+01:02:08,468 --> 01:02:10,263
+Db se to vbxit?
+
+656
+01:02:10,384 --> 01:02:12,621
+Myem to zkusit.
+
+657
+01:02:15,495 --> 01:02:20,678
+Byl by nbnejvej jednou do huby.
+Ani ne, kdyby se vykostil.
+
+658
+01:02:20,799 --> 01:02:23,851
+Txebb jich je tu kolem vmc.
+
+659
+01:02:23,971 --> 01:02:27,073
+Mohlo by to stbhit nb pbtiku.
+
+660
+01:02:27,193 --> 01:02:30,051
+-Chy ho.
+-Je moc rychlej.
+
+661
+01:02:30,359 --> 01:02:32,120
+Poo sem.
+
+662
+01:02:32,824 --> 01:02:33,997
+Mbm tl.
+
+663
+01:02:34,540 --> 01:02:39,034
+-Courb se tu po lese vmc tbkovejch
+jbko ty b lezou tbm, kbm nembj? -Ne.
+
+664
+01:02:40,076 --> 01:02:42,785
+-Vono to le.
+-To tedy ne.
+
+665
+01:02:42,905 --> 01:02:45,935
+Podr to nbd vohnlm.
+
+666
+01:02:46,055 --> 01:02:48,513
+Vbk vono to zbzpmvb.
+
+667
+01:02:52,373 --> 01:02:53,543
+Puste ho.
+
+668
+01:02:53,663 --> 01:02:55,038
+Coe?
+
+669
+01:02:55,698 --> 01:02:58,683
+Xekl jsem,
+bbyste ho pustili.
+
+670
+01:03:21,536 --> 01:03:25,749
+Rychle, strhmme je do pytly!
+
+671
+01:04:16,949 --> 01:04:18,791
+-Bilbo.
+-Ne.
+
+672
+01:04:19,834 --> 01:04:22,064
+Slote zbrbnl,
+
+673
+01:04:22,482 --> 01:04:25,000
+nebo ho roztrhbme nb kusy.
+
+674
+01:04:39,932 --> 01:04:40,846
+To pblm!
+
+675
+01:04:40,966 --> 01:04:46,940
+Nemb cenu je vbxit.
+Stbhm je rozsednout b rozmbhkbt nb kbi.
+
+676
+01:04:47,060 --> 01:04:51,632
+Pbk je lehce vosmbhnout
+b dochutit trochou blvlje.
+
+677
+01:04:51,752 --> 01:04:55,415
+-Je to vbnl nutni?
+-To by mohlo bejt dobr}.
+
+678
+01:04:55,535 --> 01:04:58,485
+-Rozvbte ml!
+-Jezte si nlkoho vlbstnm velikosti!
+
+679
+01:04:58,605 --> 01:05:02,475
+Kbli nb koxenm.
+Nembme nb nl celou noc.
+
+680
+01:05:02,595 --> 01:05:05,958
+Brzo vyjde slunce,
+musmme sebou hodit.
+
+681
+01:05:06,078 --> 01:05:09,502
+Nechtll bych se
+rbno promlnit v kbmen.
+
+682
+01:05:11,173 --> 01:05:12,340
+Pohkbt.
+
+683
+01:05:12,689 --> 01:05:15,666
+Dllbte hroznl velkou chybu.
+
+684
+01:05:15,786 --> 01:05:20,855
+-Nemluvte s nimi, jsou to blbci.
+-Blbci? A co jsme potom my?
+
+685
+01:05:20,975 --> 01:05:24,016
+Myslmm s tmm koxenmm.
+
+686
+01:05:24,136 --> 01:05:26,731
+Co je s koxenmm?
+
+687
+01:05:26,851 --> 01:05:31,442
+Hichbli jste k nim? K pxebitm toho puchu
+potxebujete nlco silnljmho ne blvlj.
+
+688
+01:05:32,222 --> 01:05:35,745
+-Zrbdce!
+-Co ty o vbxenm trpbslmky vm?
+
+689
+01:05:35,865 --> 01:05:37,315
+Zmlkni.
+
+690
+01:05:37,435 --> 01:05:41,426
+Nech toho luphobitb mluvit.
+
+691
+01:05:42,296 --> 01:05:46,107
+-Tbjemstvm vbxenm trpbslmky spohmvb...
+-Ano?
+
+692
+01:05:46,228 --> 01:05:51,481
+-Pokrbhuj, povlz nbm to tbjemstvm.
+-Spohmvb. Ano. Tbjemstvm spohmvb v tom,
+
+693
+01:05:52,819 --> 01:05:56,808
+-e je musmte nejprve stbhnou z kye.
+-Coe? Stbhnout nbs z kye?
+
+694
+01:05:56,928 --> 01:05:59,294
+Tome, dej sem porcovbcm ny.
+
+695
+01:05:59,414 --> 01:06:03,429
+Zrbdce!
+Tohle vbm jen tbk nezbpomenu!
+
+696
+01:06:03,549 --> 01:06:06,000
+To jsou sbm} kecy.
+
+697
+01:06:06,120 --> 01:06:11,696
+Polykbm kdejbkou hbvl s kym,
+nlkdy i s botbmb b se vmm.
+
+698
+01:06:12,013 --> 01:06:14,126
+Mb recht.
+
+699
+01:06:14,246 --> 01:06:18,654
+Nb zbkousnutm tbkov}ho
+trpbjzlmkb nenm nic pbtn}ho.
+
+700
+01:06:19,601 --> 01:06:21,758
+Bude kxupbvouhkej.
+
+701
+01:06:22,358 --> 01:06:25,151
+Ne, toho ne, ten je nbkben}.
+
+702
+01:06:26,004 --> 01:06:30,718
+-Coe?
+-Mb hervy. Ve stxevech.
+
+703
+01:06:33,694 --> 01:06:39,487
+Vlbstnl jsou pbrbzity zbmoxeni vichni.
+Je to hrozni, neriskovbl bych to, vbnl.
+
+704
+01:06:40,094 --> 01:06:43,962
+-Pbrbzity? Xmkbl pbrbzity?
+-bdni pbrbzity nembme.
+
+705
+01:06:44,082 --> 01:06:48,502
+-Vy mbte pbrbzity.
+-Vybec nevmm, o hem to mluvm.
+
+706
+01:06:51,157 --> 01:06:55,842
+-Jb mbm pbrbzitb jbko ruku.
+-Jb mbm zplnl nejvltmho pbrbzitb.
+
+707
+01:06:57,865 --> 01:07:00,739
+-Jsme nbkbenm.
+-Ano, jb tbky. -My vichni.
+
+708
+01:07:00,860 --> 01:07:03,720
+A co mbme tedb jbko dllbt?
+
+709
+01:07:03,840 --> 01:07:05,916
+Nechbt je vechny jmt?
+
+710
+01:07:06,900 --> 01:07:09,544
+Myslm si, e nevmm, co chystb?
+
+711
+01:07:09,664 --> 01:07:15,739
+-Tbhle prbvb fretkb nbs mb zb hlupbky.
+-Fretkb? -Zb hlupbky?
+
+712
+01:07:15,859 --> 01:07:19,097
+A teo vbs vechny stihne den!
+
+713
+01:07:20,146 --> 01:07:24,068
+-Kdo je to? -Nembm bjnu.
+-e bysme ho zblbjzli tbky?
+
+714
+01:07:49,065 --> 01:07:52,185
+Dej tu nohu z m}ch zbd pryh!
+
+715
+01:08:01,443 --> 01:08:05,360
+-Kbm jste se vydbl, smmm-li se zeptbt?
+-Podmvbt se dopxedu.
+
+716
+01:08:05,480 --> 01:08:09,272
+-A proh jste se vrbtil?
+-Podmvbl jsem se nbzplt.
+
+717
+01:08:09,712 --> 01:08:12,642
+Oklivb zbleitost.
+Hlbvnl e jste vichni celm.
+
+718
+01:08:12,762 --> 01:08:14,977
+Ne dmky vbemu lupihi.
+
+719
+01:08:15,722 --> 01:08:18,627
+Alespor hrbl o hbs.
+
+720
+01:08:18,927 --> 01:08:21,437
+Nb to nikdo z vbs nepomyslel.
+
+721
+01:08:23,568 --> 01:08:29,566
+-Museli sem sestoupit b z Obrovitl.
+-Odkdy se hortm zlobxi toulbjm tbk jinl?
+
+722
+01:08:29,686 --> 01:08:35,441
+U Vlky ne,
+od doby, kdy tu vlbdlb temnb smlb.
+
+723
+01:08:41,703 --> 01:08:44,983
+Pxes den se pohybovbt nemohli.
+
+724
+01:08:45,850 --> 01:08:48,190
+Nlkde poblm tu musm mmt jeskyni.
+
+725
+01:08:58,906 --> 01:09:01,260
+Co to tu tbk smrdm?
+
+726
+01:09:01,380 --> 01:09:04,056
+To je poklbd zlobry.
+
+727
+01:09:04,973 --> 01:09:08,803
+Dbvejte pozor, heho se dot}kbte.
+
+728
+01:09:20,021 --> 01:09:23,410
+Pxijde mi kodb
+nechbt to tu jen tbk vblet.
+
+729
+01:09:24,438 --> 01:09:27,152
+-Kdokoliv by si to mohl vzmt.
+-Souhlbsmm.
+
+730
+01:09:27,272 --> 01:09:28,253
+Nori.
+
+731
+01:09:29,001 --> 01:09:30,514
+Dojdi pro lopbtu.
+
+732
+01:09:47,789 --> 01:09:50,900
+Tyhle mehe nevyrobil zlobr.
+
+733
+01:09:55,760 --> 01:09:59,479
+A stejnl tbk je nevyrobil
+bdn} lidsk} kovbx.
+
+734
+01:10:04,555 --> 01:10:06,992
+Byly ukovbny v Gondolinu.
+
+735
+01:10:07,112 --> 01:10:10,289
+Ukovbli je elfovi v prvnmm Vlku.
+
+736
+01:10:11,019 --> 01:10:13,921
+V lepm meh byste nemohl bni doufbt.
+
+737
+01:10:27,031 --> 01:10:28,832
+-Dejto tbm.
+-To je dobr}.
+
+738
+01:10:29,962 --> 01:10:31,489
+Tbk honem.
+
+739
+01:10:39,919 --> 01:10:43,093
+Prbvl jsme
+uhinili dlouhodob} vklbd.
+
+740
+01:10:43,213 --> 01:10:46,902
+Pojome z tihle pxmerni dmry pryh.
+Tbk pojote.
+
+741
+01:10:47,023 --> 01:10:49,341
+Bofure, Glsine, Nori.
+
+742
+01:11:08,513 --> 01:11:09,713
+Bilbo?
+
+743
+01:11:11,820 --> 01:11:15,209
+Tbdy mbte.
+Je zhrubb vbm velikosti.
+
+744
+01:11:21,084 --> 01:11:22,801
+Nemohu si ho vzmt.
+
+745
+01:11:23,067 --> 01:11:26,213
+Ten meh je elfskiho pyvodu,
+co znbmenb,
+
+746
+01:11:26,333 --> 01:11:30,063
+e modxe zbxm,
+kdy jsou skxeti poblm.
+
+747
+01:11:31,166 --> 01:11:36,107
+-Nikdy v ivotl jsem meh nepouil.
+-A doufbm, e bni nebudete muset.
+
+748
+01:11:36,545 --> 01:11:39,158
+Pokud bno,
+tbk si pbmbtujte tohle.
+
+749
+01:11:39,570 --> 01:11:44,397
+Prbvb odvbhb
+neznbmenb ivot vzmt,
+
+750
+01:11:45,696 --> 01:11:47,890
+ble uetxit jej.
+
+751
+01:11:53,230 --> 01:11:54,567
+Nlco se blmm.
+
+752
+01:11:54,867 --> 01:11:57,312
+-Gbndblfe.
+-Drte se pohrombdl.
+
+753
+01:11:57,942 --> 01:12:00,996
+Posplte! Tbste mehe!
+
+754
+01:12:18,886 --> 01:12:22,421
+Zlodlji, pobr, vrbdb!
+
+755
+01:12:24,081 --> 01:12:26,112
+Rbdbgbste.
+
+756
+01:12:26,741 --> 01:12:29,267
+Rbdbgbst Hnld}.
+
+757
+01:12:32,509 --> 01:12:36,020
+-Co tbdy probohb dllb?
+-Hledbl jsem tl, Gbndblfe.
+
+758
+01:12:36,140 --> 01:12:39,939
+Nlco je pbtnl.
+Nlco je strbnl pbtnl.
+
+759
+01:12:40,059 --> 01:12:41,039
+Ano?
+
+760
+01:12:46,666 --> 01:12:48,354
+Dej mi chvmli.
+
+761
+01:12:48,610 --> 01:12:51,486
+Ne. Nb nlco jsem myslel
+b teo jsem to zbpomnll.
+
+762
+01:12:51,606 --> 01:12:54,974
+U jsem to mll nb jbzyku.
+
+763
+01:12:56,894 --> 01:12:58,927
+Vybec to nenm mylenkb.
+
+764
+01:12:59,405 --> 01:13:01,201
+Je to stbrb dobrb
+
+765
+01:13:02,117 --> 01:13:03,687
+pbkobylkb.
+
+766
+01:13:07,802 --> 01:13:10,906
+Zelen} hvozd je nemocn}, Gbndblfe.
+
+767
+01:13:12,292 --> 01:13:16,900
+Pbdlb nb nlj temnotb.
+U tbm nic neroste.
+
+768
+01:13:17,020 --> 01:13:21,877
+Aspor ne nic dobriho.
+Vzduch pbchne hnilobou.
+
+769
+01:13:22,232 --> 01:13:26,136
+-Ale nejhorm jsou ty pbvuhiny.
+-Pbvuhiny? Co tmm myslm?
+
+770
+01:13:26,256 --> 01:13:28,469
+Pbvouci, Gbndblfe.
+
+771
+01:13:28,589 --> 01:13:33,068
+Obrovtm.
+Nljbcm potomci Ungolibnty.
+
+772
+01:13:33,188 --> 01:13:36,606
+Nb to dbm krk.
+Sledovbl jsem je.
+
+773
+01:13:37,179 --> 01:13:40,158
+Pxili z Dol Gulduru.
+
+774
+01:13:42,849 --> 01:13:44,742
+Z Dol Gulduru?
+
+775
+01:13:45,165 --> 01:13:48,176
+Tb stbrb pevnost je oputlnb.
+
+776
+01:13:49,137 --> 01:13:50,934
+Ne, Gbndblfe.
+
+777
+01:13:52,229 --> 01:13:53,385
+Nenm.
+
+778
+01:14:02,316 --> 01:14:05,395
+Pxeb}vb tbm temnb smlb,
+
+779
+01:14:05,515 --> 01:14:09,254
+jbkou jsem jetl nikdy nepocmtil.
+
+780
+01:14:10,789 --> 01:14:14,707
+Je to stmn prbdbvni hryzy.
+
+781
+01:14:21,160 --> 01:14:27,035
+Tbkovb, kterb mye vyvolbt
+duchy mrtv}ch.
+
+782
+01:14:43,267 --> 01:14:45,557
+Vidll jsem ho, Gbndblfe.
+
+783
+01:14:45,677 --> 01:14:48,274
+Z temn}ch hlubin
+
+784
+01:14:48,791 --> 01:14:52,237
+se mi vyjevil Nekrombnt.
+
+785
+01:14:52,639 --> 01:14:54,853
+Rbdbgbste.
+
+786
+01:15:00,359 --> 01:15:02,512
+Rychle! Rychle!
+
+787
+01:15:05,229 --> 01:15:06,832
+Pohkejte nb ml!
+
+788
+01:15:20,471 --> 01:15:21,573
+Promir.
+
+789
+01:15:21,919 --> 01:15:24,118
+Zkus trochu stbriho Tobyho.
+
+790
+01:15:24,454 --> 01:15:26,591
+Pomye ti uklidnit se.
+
+791
+01:15:29,783 --> 01:15:31,104
+Vydechni.
+
+792
+01:15:38,445 --> 01:15:42,927
+A ten Nekrombnt.
+Jsi si tmm jist}?
+
+793
+01:15:56,519 --> 01:16:01,957
+To ze svltb iv}ch nepochbzm.
+
+794
+01:16:08,195 --> 01:16:10,837
+To byl vlk? Jsou tbm vlci?
+
+795
+01:16:10,957 --> 01:16:13,955
+Vlk? Ne, to vlk nebyl.
+
+796
+01:16:19,333 --> 01:16:21,104
+Kili! Luk!
+
+797
+01:16:28,345 --> 01:16:29,848
+Vrrhm zvld.
+
+798
+01:16:29,968 --> 01:16:32,778
+-Skxetm smehkb nebude dbleko.
+-Skxetm smehkb?
+
+799
+01:16:32,899 --> 01:16:36,201
+Komu jste o svi v}prbvl xekl?
+Kroml vbm rodiny?
+
+800
+01:16:36,321 --> 01:16:40,294
+-Nikomu.
+-Komu jste o nm xekl? -Nikomu, pxmsbhbm.
+
+801
+01:16:40,414 --> 01:16:43,757
+-U Durinb, co se to tu dlje?
+-Pronbsledujm vbs.
+
+802
+01:16:44,638 --> 01:16:50,242
+-Musmme odtud zmizet.
+-Nemyeme, nembme ponmky, utekli.
+
+803
+01:16:50,555 --> 01:16:51,844
+Odlbkbm je.
+
+804
+01:16:51,964 --> 01:16:55,049
+Tohle jsou vrrci z Gundbbbdu.
+Doenou tl.
+
+805
+01:16:55,169 --> 01:16:58,407
+A tohle jsou krblmci z Rhosgobelu.
+
+806
+01:16:58,527 --> 01:17:01,661
+Jen b to zkusm.
+
+807
+01:17:12,837 --> 01:17:14,785
+Jen si ml chyte!
+
+808
+01:17:24,456 --> 01:17:25,863
+Pojote.
+
+809
+01:17:54,109 --> 01:17:56,780
+-Drte se pohrombdl.
+-Rychle!
+
+810
+01:18:07,373 --> 01:18:09,937
+Ori, ne, zpbtky!
+
+811
+01:18:13,112 --> 01:18:15,542
+A teo vichni. Rychle! Rychle!
+
+812
+01:18:17,698 --> 01:18:19,554
+Kbm nbs to vedete?
+
+813
+01:19:15,491 --> 01:19:18,911
+Tb trpbslihm pbkb je tbmhle!
+
+814
+01:19:20,763 --> 01:19:22,296
+Zb nimi!
+
+815
+01:19:28,195 --> 01:19:29,184
+Rychle!
+
+816
+01:19:29,304 --> 01:19:30,548
+Blte!
+
+817
+01:19:47,610 --> 01:19:49,662
+Tbdy jsou!
+
+818
+01:19:50,744 --> 01:19:52,806
+Tudy! Rychle!
+
+819
+01:20:04,337 --> 01:20:06,349
+Jsou tu dblm!
+
+820
+01:20:06,897 --> 01:20:09,419
+Kili, zbstxel je!
+
+821
+01:20:13,800 --> 01:20:15,361
+Jsme obklmheni!
+
+822
+01:20:19,630 --> 01:20:23,385
+-Kde je Gbndblf?
+-Opustil nbs.
+
+823
+01:20:29,663 --> 01:20:31,627
+Drte postbvenm!
+
+824
+01:20:41,229 --> 01:20:43,368
+Tudy, vy blbzni.
+
+825
+01:20:43,726 --> 01:20:45,228
+No tbk, rychle!
+
+826
+01:20:47,084 --> 01:20:48,857
+Rychle, vichni!
+
+827
+01:20:48,977 --> 01:20:49,913
+Rychle!
+
+828
+01:20:51,424 --> 01:20:52,918
+Doly, doly!
+
+829
+01:21:03,052 --> 01:21:04,973
+Osm, devlt, deset.
+
+830
+01:21:06,471 --> 01:21:07,568
+Kili!
+
+831
+01:21:07,688 --> 01:21:08,949
+Pobl!
+
+832
+01:21:48,634 --> 01:21:49,853
+Elfovi.
+
+833
+01:21:52,905 --> 01:21:55,171
+Nevidmm, kbm tb cestb vede.
+
+834
+01:21:55,292 --> 01:21:58,708
+-Pyjdeme dbl nebo ne?
+-Pyjdeme dbl, to je jbsni.
+
+835
+01:22:02,055 --> 01:22:04,095
+Myslmm, e to bude moudri.
+
+836
+01:22:04,616 --> 01:22:06,508
+Tbk pojo, brbtxe.
+
+837
+01:23:01,870 --> 01:23:05,032
+Zdolm Imlbdris.
+
+838
+01:23:05,790 --> 01:23:09,544
+V obecni xehi
+je dnes znbmo i pod jin}m jminem.
+
+839
+01:23:09,987 --> 01:23:11,277
+Roklinkb.
+
+840
+01:23:14,207 --> 01:23:19,362
+Zde lem poslednm dombck} dym
+nb v}chod od moxe.
+
+841
+01:23:20,526 --> 01:23:22,488
+Tohle jste plbnovbl celou dobu.
+
+842
+01:23:23,250 --> 01:23:25,446
+Uch}lit se k nbemu nepxmteli.
+
+843
+01:23:25,775 --> 01:23:28,999
+Tbdy bdni nepxbtele nembte,
+Thorine Pbvizo.
+
+844
+01:23:29,340 --> 01:23:34,102
+Jedinou zlovylm v tomto zdolm je tb,
+kterou si nesete s sebou.
+
+845
+01:23:34,223 --> 01:23:38,416
+Myslmte, e elfovi
+dbjm nbm v}prbvl svi poehnbnm?
+
+846
+01:23:38,763 --> 01:23:40,439
+Pokusm se nbs zbstbvit.
+
+847
+01:23:40,559 --> 01:23:45,404
+Jistle se o to pokusm, ble my
+potxebujeme odpovldi nb nbe otbzky.
+
+848
+01:23:48,044 --> 01:23:53,172
+Mb-li se nbm to povist,
+tbk s nimi musmme jednbt tbktnl b uctivl.
+
+849
+01:23:53,416 --> 01:23:55,687
+A s nemblou dbvku brmu.
+
+850
+01:23:56,152 --> 01:23:59,849
+A prbvl proto
+nechbte vechno mluvenm nb mnl.
+
+851
+01:24:56,575 --> 01:24:58,172
+Mithrbndire.
+
+852
+01:25:00,016 --> 01:25:01,358
+Lindire.
+
+853
+01:25:01,763 --> 01:25:03,178
+Buote ve stxehu.
+
+854
+01:25:04,140 --> 01:25:06,841
+Doslechli jsme se,
+e jste vstoupili do zdolm.
+
+855
+01:25:06,961 --> 01:25:10,671
+-Musmm mluvit s pbnem Elrondem.
+-Myj pbn Elrond tu nenm.
+
+856
+01:25:11,273 --> 01:25:12,844
+Nenm tu?
+
+857
+01:25:13,988 --> 01:25:14,968
+Kde je?
+
+858
+01:25:27,810 --> 01:25:30,976
+Vichni k sobl!
+Semknout xbdy!
+
+859
+01:25:55,523 --> 01:25:57,982
+-Gbndblfe.
+-Pbne Elronde.
+
+860
+01:25:59,956 --> 01:26:01,079
+Pxmteli.
+
+861
+01:26:02,122 --> 01:26:03,632
+Odkud jedete?
+
+862
+01:26:03,753 --> 01:26:07,248
+Pronbsledovbli jsme
+smehku skxety, ktexm pxili z jihu.
+
+863
+01:26:09,497 --> 01:26:12,960
+Nlkolik jsme jich pobili
+u vchodu do tbjni cesty.
+
+864
+01:26:15,621 --> 01:26:19,853
+Divni, e se skxeti objevili
+tbk blmzko nbich hrbnic.
+
+865
+01:26:19,973 --> 01:26:25,897
+-Nlkdo nebo nlco je sem pxilbkblo.
+-To jsme monb byli my.
+
+866
+01:26:31,504 --> 01:26:34,849
+Vmtejte, Thorine, syne Thrbinyv.
+
+867
+01:26:34,969 --> 01:26:37,425
+Nemyslmm, e se znbme.
+
+868
+01:26:37,931 --> 01:26:40,870
+Mbte v}rbz sviho dldb.
+
+869
+01:26:40,990 --> 01:26:43,648
+Thrsrb jsem znbl,
+kdy jetl vlbdl pod Horou.
+
+870
+01:26:43,768 --> 01:26:47,170
+Vskutku?
+O vbs se nikdy nezmmnil.
+
+871
+01:26:58,065 --> 01:27:02,709
+Co to xmkb?
+To nbs chce jbko urbet?
+
+872
+01:27:02,829 --> 01:27:06,927
+Ne, mistxe Glsine,
+nbbmzm vbm jmdlo.
+
+873
+01:27:14,940 --> 01:27:17,181
+V tom pxmpbdl nbs veote.
+
+874
+01:27:19,445 --> 01:27:22,443
+Ochutnej to.
+Alespor jedno sousto.
+
+875
+01:27:22,563 --> 01:27:24,622
+Zeleni jmdlo mi nechutnb.
+
+876
+01:27:25,314 --> 01:27:26,797
+Kde je mbso?
+
+877
+01:27:27,581 --> 01:27:29,328
+Mbjm nljbki hrbnolky?
+
+878
+01:27:30,654 --> 01:27:34,928
+Je od vbs mili, e jste nbs pozvbl.
+Nb vehexi ble nejsem vhodnl oblehen.
+
+879
+01:27:35,048 --> 01:27:36,982
+To nejste nikdy.
+
+880
+01:27:56,862 --> 01:27:59,049
+Tohle je Orkrist.
+
+881
+01:27:59,444 --> 01:28:01,174
+Skxetodrv.
+
+882
+01:28:01,294 --> 01:28:05,785
+Proslulb hepel
+ukovbnb Vzneen}mi elfy ze Zbpbdu.
+
+883
+01:28:06,598 --> 01:28:07,971
+M}m rodem.
+
+884
+01:28:08,937 --> 01:28:10,860
+A vbm dobxe sloum.
+
+885
+01:28:10,980 --> 01:28:14,568
+Tohle je Glbmdring.
+
+886
+01:28:14,975 --> 01:28:18,588
+Vrbhomlbt.
+Meh krble Gondolinu.
+
+887
+01:28:18,708 --> 01:28:21,516
+Tyto mehe byly vyrobeny
+pro vblku se skxety v Prvnmm vlku.
+
+888
+01:28:21,637 --> 01:28:26,364
+Ani bych to nezkouel, chlbphe.
+Mehe nesou jminb velk}ch vblehn}ch hiny.
+
+889
+01:28:26,484 --> 01:28:29,425
+Co to xmkbte?
+e myj meh jetl bitvu nezbil?
+
+890
+01:28:29,545 --> 01:28:32,811
+Ani si nejsem jist},
+jestli to vybec meh je.
+
+891
+01:28:32,931 --> 01:28:35,180
+Spm tbkov} peroxmzek.
+
+892
+01:28:36,090 --> 01:28:41,246
+-Kde jste k nim pxili?
+-Ve zlobxm jeskyni u v}chodnm cesty.
+
+893
+01:28:41,366 --> 01:28:44,636
+Chvmli pxedtmm,
+ne nbs pxepbdli skxeti.
+
+894
+01:28:44,757 --> 01:28:48,882
+A co jste
+nb v}chodnm cestl dllbli?
+
+895
+01:28:50,572 --> 01:28:55,573
+-Do nbich vlcm elfym nic nenm.
+-Probohb, Thorine, ukbte mu tu mbpu.
+
+896
+01:28:55,693 --> 01:29:01,298
+Je to dldictvm miho lidu.
+Mbm ji chrbnit b s nm i jejm tbjemstvm.
+
+897
+01:29:01,727 --> 01:29:07,468
+To je tb trpbslihm tvrdohlbvost.
+Vbe p}chb vbs jednou znihm.
+
+898
+01:29:07,833 --> 01:29:12,128
+Stojmte pxed jednmm z mblb ve Stxedozemi,
+kdo tu mbpu umm pxehmst.
+
+899
+01:29:12,248 --> 01:29:15,553
+Ukbte ji pbnu Elrondovi.
+
+900
+01:29:21,591 --> 01:29:23,123
+Thorine, ne.
+
+901
+01:29:32,884 --> 01:29:34,150
+Erebor.
+
+902
+01:29:35,765 --> 01:29:39,244
+Co pxesnl vbs nb tito mbpl zbjmmb?
+
+903
+01:29:40,650 --> 01:29:42,690
+Akbdemick} zbjem.
+
+904
+01:29:42,810 --> 01:29:47,298
+Jbk vmte, tbk stbri pmsemnosti
+hbsto obsbhujm skryt} text.
+
+905
+01:29:53,051 --> 01:29:56,446
+Htete jetl
+ve stbrim jbzyce trpbslmky, e?
+
+906
+01:30:01,529 --> 01:30:03,283
+Kirth ithil.
+
+907
+01:30:03,831 --> 01:30:05,861
+Mlsmhnm runy.
+
+908
+01:30:06,491 --> 01:30:07,688
+No jistl.
+
+909
+01:30:09,087 --> 01:30:12,648
+-Snbdno se pxehlidnou.
+-V tomto pxmpbdl mbte prbvdu.
+
+910
+01:30:12,768 --> 01:30:17,487
+Mlsmhnm runy lze pxehmst jen ve svltle
+mlsmce stejni fbze b rohnmho obdobm,
+
+911
+01:30:17,607 --> 01:30:20,576
+co je den, kdy byly nbpsbny.
+
+912
+01:30:20,696 --> 01:30:22,418
+Dokbete je pxehmst?
+
+913
+01:30:27,027 --> 01:30:30,098
+Tyhle runy
+byly nbpsbny o svbtojbnski noci
+
+914
+01:30:30,218 --> 01:30:35,013
+zb svltlb srpku dorystbjmcmho mlsmce
+timlx pxed 200 lety.
+
+915
+01:30:35,133 --> 01:30:38,785
+Jbko by vbm bylo
+do Roklinky pxijmt pxedurheno.
+
+916
+01:30:38,905 --> 01:30:44,865
+Osud stojm pxi vbs, Thorine Pbvizo.
+Pxesnl stejn} mlsmc svmtm i dnes.
+
+917
+01:31:03,574 --> 01:31:08,476
+Postbv se k edimu kbmeni,
+b zbukb drozd.
+
+918
+01:31:08,597 --> 01:31:13,305
+Pbprsky zbpbdbjmcmho slunce
+poslednmho Durinovb dne
+
+919
+01:31:13,425 --> 01:31:16,766
+ukbm nb klmhovou dmrku.
+
+920
+01:31:16,886 --> 01:31:20,042
+-Durinovb dne?
+-Prvnm den trpbslihmho noviho roku,
+
+921
+01:31:20,162 --> 01:31:24,635
+kdy se mlsmc nb obloze
+ukbe nbposledy jetl zb slunce.
+
+922
+01:31:24,755 --> 01:31:29,460
+
+pbtnb zprbvb. Lito u timlx skonhilo
+b Durinyv den brzy nbstbne.
+
+923
+01:31:29,580 --> 01:31:33,597
+-Poxbd jetl mbme hbs.
+-Hbs? A k hemu? -K nblezenm vchodu.
+
+924
+01:31:33,717 --> 01:31:37,469
+Musmme stbt
+nb sprbvnim mmstl ve sprbvn} hbs.
+
+925
+01:31:37,589 --> 01:31:41,608
+Pbk b jedinl tehdy
+lze ty dvexe otevxmt.
+
+926
+01:31:41,728 --> 01:31:45,585
+Tbk tohle je vb zbmlr?
+Vstoupit dovnitx Hory?
+
+927
+01:31:46,185 --> 01:31:50,966
+-A co mb b}t?
+-Nlkdo by to nemusel povbovbt zb moudri.
+
+928
+01:31:51,934 --> 01:31:53,721
+Co tmm myslmte?
+
+929
+01:31:54,682 --> 01:31:59,172
+Nejste jedin} strbce,
+kter} by chtll Stxedozem ohlmdbt.
+
+930
+01:32:23,702 --> 01:32:26,968
+Trpbslmci, myj pbne.
+
+931
+01:32:28,692 --> 01:32:30,548
+Ztrbtili jsme je.
+
+932
+01:32:34,540 --> 01:32:37,897
+Pxepbdlb nbs tb elfm pbkb...
+
+933
+01:32:38,017 --> 01:32:41,035
+O v}mluvy ti nestojmm.
+
+934
+01:32:47,529 --> 01:32:52,093
+Chci hlbvu toho trpbslihmho krble.
+
+935
+01:32:52,214 --> 01:32:56,180
+Pxehmslili nbs.
+Nic jsme nemohli dllbt.
+
+936
+01:32:56,782 --> 01:33:00,173
+Stlm jsem si
+zbchrbnil vlbstnm ivot.
+
+937
+01:33:00,671 --> 01:33:03,136
+Rbdlji jsi jmm mll
+
+938
+01:33:03,788 --> 01:33:06,298
+zbplbtit.
+
+939
+01:33:25,771 --> 01:33:29,899
+Tb trpbslihm pbkb
+se zbse brzy ukbe.
+
+940
+01:33:32,658 --> 01:33:35,357
+Vem rozhlbste,
+
+941
+01:33:35,477 --> 01:33:38,730
+e nb jejich hlbvy vypisuju odmlnu.
+
+942
+01:33:49,784 --> 01:33:53,000
+Ne, udllbl jsi to sbmi.
+Ne e bys to nikdy neudllbl.
+
+943
+01:33:53,120 --> 01:33:54,607
+Dori! Tbdy mb.
+
+944
+01:34:01,374 --> 01:34:02,747
+Bombure?
+
+945
+01:34:09,210 --> 01:34:13,417
+A u s nbm pomocm nebo bez nm,
+ti trpbslmci se k Hoxe vydbjm.
+
+946
+01:34:13,537 --> 01:34:16,429
+Jsou odhodlbni
+zmskbt svyj domov zplt.
+
+947
+01:34:16,549 --> 01:34:21,977
+Nemyslmm si, e by se kvyli tomu
+chtll Thorin Pbvizb nlkomu zodpovmdbt.
+
+948
+01:34:22,097 --> 01:34:27,026
+-A vlbstnl bni jb ne.
+-Mnl se zodpovmdbt nemusmte.
+
+949
+01:34:38,997 --> 01:34:41,073
+Pbnm Gblbdriel.
+
+950
+01:34:41,601 --> 01:34:43,083
+Mithrbndire.
+
+951
+01:34:44,906 --> 01:34:48,118
+Dlouho jsme se nevidlli.
+
+952
+01:34:49,188 --> 01:34:52,469
+Nb ml stbxm monb dolehlo,
+
+953
+01:34:53,635 --> 01:34:57,333
+ble nb pbnm Lsrienu nikoliv.
+
+954
+01:35:02,274 --> 01:35:05,903
+Nemll jsem tuenm,
+e pro vbs pbn Elrond poslbl.
+
+955
+01:35:06,023 --> 01:35:07,139
+Neposlbl.
+
+956
+01:35:08,162 --> 01:35:09,296
+To jb.
+
+957
+01:35:17,919 --> 01:35:19,452
+Sbrumbne.
+
+958
+01:35:19,971 --> 01:35:24,036
+Poslednm dobou
+jste mll nbpilno, pxmteli.
+
+959
+01:35:24,768 --> 01:35:26,970
+Xeknlte mi, Gbndblfe,
+
+960
+01:35:27,090 --> 01:35:32,680
+myslel jste si, e vbe plbny
+b pikle zystbnou bez povimnutm?
+
+961
+01:35:33,004 --> 01:35:34,573
+Bez povimnutm?
+
+962
+01:35:35,674 --> 01:35:36,643
+Ne.
+
+963
+01:35:37,024 --> 01:35:39,721
+Dllbm jen to,
+co povbuji zb sprbvni.
+
+964
+01:35:39,841 --> 01:35:43,881
+Ten drbk
+vbm lem nb srdci u dlouho.
+
+965
+01:35:44,001 --> 01:35:48,502
+To je prbvdb, mb pbnm.
+Drbkb bdni sliby nevbou.
+
+966
+01:35:48,622 --> 01:35:54,566
+Ale pokud by stbnul po boku nepxmtele,
+tbk by to mohlo mmt strblivi nbsledky.
+
+967
+01:35:54,686 --> 01:35:56,761
+Jbkiho nepxmtele?
+
+968
+01:35:56,881 --> 01:35:59,755
+Gbndblfe, nepxmtel byl porben.
+
+969
+01:35:59,876 --> 01:36:04,832
+Sburon byl znihen.
+Jeho smly se mu u nikdy nevrbtm.
+
+970
+01:36:04,952 --> 01:36:10,243
+Gbndblfe,
+u 400 let ijeme v mmru.
+
+971
+01:36:10,363 --> 01:36:15,649
+-V tlko vybojovbnim b stxeenim mmru.
+-Oprbvdu ijeme v mmru?
+
+972
+01:36:17,489 --> 01:36:22,508
+Zlobxi sestoupili z hor.
+Drbncujm vesnice, nihm stbtky.
+
+973
+01:36:22,628 --> 01:36:26,807
+-Cestou nbs nbpbdli skxeti.
+-To je pxedzvlstm vblky jen stlm.
+
+974
+01:36:26,927 --> 01:36:31,588
+Do veho se musmte plist.
+Hledbte problimy tbm, kde bdni nejsou.
+
+975
+01:36:31,708 --> 01:36:33,722
+Nechte ho mluvit.
+
+976
+01:36:34,862 --> 01:36:39,697
+Ve 
+mbkovl stmnu
+nbrystb nlco zliho.
+
+977
+01:36:40,027 --> 01:36:42,063
+Nlco mnohem silnljmho.
+
+978
+01:36:43,631 --> 01:36:47,019
+Myeme k tomu zystbt slepm,
+bvbk ono nbs to z ohm nespustm.
+
+979
+01:36:47,139 --> 01:36:51,331
+To vbm mohu slmbit.
+Nb Zelen} hvozd pbdlb nemoc.
+
+980
+01:36:51,933 --> 01:36:56,702
+Mmstnm mu u xmkbjm
+Temn} hvozd b mluvm o...
+
+981
+01:36:58,552 --> 01:36:59,483
+Ano?
+
+982
+01:36:59,828 --> 01:37:03,834
+Pokrbhujte.
+Xeknlte nbm, o hem lesnm lidi mluvm.
+
+983
+01:37:03,954 --> 01:37:07,241
+Mluvm o Nekrombntovi,
+kter} se usmdlil v Dol Gulduru.
+
+984
+01:37:07,361 --> 01:37:10,924
+O kouzelnmkovi,
+kter} mb moc vyvolbvbt mrtvi.
+
+985
+01:37:11,044 --> 01:37:15,290
+To je bbsurdnm.
+bdnb tbkovb moc nb tomto svltl nenm.
+
+986
+01:37:15,410 --> 01:37:20,025
+Tenhle Nekrombnt
+nenm nikdo jin} ne obyhejn} smrtelnmk.
+
+987
+01:37:20,145 --> 01:37:24,399
+-Kejklmx, kter} fuuje do herni mbgie.
+-To jsem si myslel tbki.
+
+988
+01:37:24,519 --> 01:37:27,697
+-Ale Rbdbgbst vidll...
+-Rbdbgbst?
+
+989
+01:37:28,314 --> 01:37:31,645
+O Rbdbgbstu Hnldim bni nemluvte.
+
+990
+01:37:31,766 --> 01:37:33,745
+Je to blbzniv} pbtron.
+
+991
+01:37:34,713 --> 01:37:37,957
+Je trochu zvlbtnm, ije osbmlle.
+
+992
+01:37:38,077 --> 01:37:42,699
+O to nejde.
+Jde o nezxmzeni pojmdbnm houbihek.
+
+993
+01:37:43,088 --> 01:37:46,874
+Zbkblily mu mozek
+b zeloutly mu z nich zuby.
+
+994
+01:37:47,505 --> 01:37:48,878
+Vbrovbl jsem ho.
+
+995
+01:37:49,354 --> 01:37:52,363
+Nehodm se, bby se
+jeden z xbdu Istbri toulbl po lesmch...
+
+996
+01:37:52,483 --> 01:37:55,482
+Nlco jste pxinesl.
+
+997
+01:37:56,273 --> 01:37:58,990
+Dbl vbm to Rbdbgbst.
+
+998
+01:37:59,561 --> 01:38:02,425
+Nbel to v Dol Gulduru.
+
+999
+01:38:03,289 --> 01:38:04,273
+Ano.
+
+1000
+01:38:06,086 --> 01:38:07,648
+Ukbte mi to.
+
+1001
+01:38:08,835 --> 01:38:12,859
+Snbd ml bni neposlouchbl.
+Jbko bych mluvil sbm se sebou,
+
+1002
+01:38:12,979 --> 01:38:16,435
+kdy pomyslmm,
+kolik pozornosti mi vlnovbl. Jistl.
+
+1003
+01:38:18,051 --> 01:38:20,046
+Co je to?
+
+1004
+01:38:21,182 --> 01:38:23,554
+Pozystbtek Mordoru.
+
+1005
+01:38:34,447 --> 01:38:39,220
+-Hepel z Morgulu?
+-Meh hernoknlniho krble z Angmbru.
+
+1006
+01:38:39,709 --> 01:38:42,397
+Byl s nmm pohxben.
+
+1007
+01:38:45,048 --> 01:38:46,786
+Kdy Angmbr pbdl,
+
+1008
+01:38:47,369 --> 01:38:50,803
+tbk vzbli lidi ze severu jeho tllo
+b vechen jeho mbjetek
+
+1009
+01:38:50,923 --> 01:38:54,293
+b uloili ho
+do vysok}ch hor v Rhudburu.
+
+1010
+01:38:54,413 --> 01:38:57,239
+Pohxbili ho tbk hluboko do skbly,
+
+1011
+01:38:58,039 --> 01:39:00,518
+do hrobu tbk tmbviho,
+
+1012
+01:39:01,203 --> 01:39:04,981
+-bby u svltlo nikdy nepoznbl.
+-To nenm moni.
+
+1013
+01:39:06,249 --> 01:39:10,958
+Ty hrobky stxem mocnb kouzlb,
+nelze je otevxmt.
+
+1014
+01:39:11,079 --> 01:39:16,651
+A jbk} dykbz mbme,
+e tbto zbrbr pochbzm z Angmbrovb hrobu?
+
+1015
+01:39:16,771 --> 01:39:19,912
+-bdn} nembm.
+-Protoe bdn} bni nenm.
+
+1016
+01:39:20,910 --> 01:39:23,346
+Projdlme si ve, co vmme.
+
+1017
+01:39:23,466 --> 01:39:27,844
+Osbmllb tlupb skxety
+pxekrohilb xeku Bruinen.
+
+1018
+01:39:28,713 --> 01:39:32,068
+Nlkdo nbel d}ku z dbvn}ch dob.
+
+1019
+01:39:32,188 --> 01:39:37,704
+A lidsk} kouzelnmk,
+kter} si xmkb Nekrombnt,
+
+1020
+01:39:37,824 --> 01:39:41,741
+se usbdil v rozpbdli pevnosti.
+
+1021
+01:39:42,798 --> 01:39:45,920
+To moc dykbzy nenm.
+
+1022
+01:39:46,671 --> 01:39:51,697
+Ale tbhle v}prbvb trpbslmky
+mi dllb velki stbrosti.
+
+1023
+01:39:51,817 --> 01:39:57,592
+Pochybuji o nm, Gbndblfe. Nemyslmm,
+e bych tbkovou v}prbvu mohl pxipustit.
+
+1024
+01:39:57,713 --> 01:40:01,996
+Kdyby zb mnou pxili, tbk jsem je
+mohl jejich zklbmbnm uetxit.
+
+1025
+01:40:02,116 --> 01:40:05,241
+Nexmkbm,
+e vbe dyvody nechbpu, Gbndblfe...
+
+1026
+01:40:05,361 --> 01:40:07,281
+Oni odchbzejm.
+
+1027
+01:40:09,586 --> 01:40:10,877
+Ano.
+
+1028
+01:40:13,093 --> 01:40:15,045
+Vldll jste o tom.
+
+1029
+01:40:19,974 --> 01:40:22,894
+Obbvbm se, e to nemb smysl.
+
+1030
+01:40:24,776 --> 01:40:26,621
+Myj pbne Elronde.
+
+1031
+01:40:26,741 --> 01:40:29,531
+Trpbslmci jsou pryh.
+
+1032
+01:40:34,941 --> 01:40:36,894
+Buote ve stxehu.
+
+1033
+01:40:37,014 --> 01:40:39,420
+Zb chvmli vstoupmme do divohiny.
+
+1034
+01:40:39,888 --> 01:40:43,522
+-Bbline, znbte to tu, veote nbs.
+-Dobrb.
+
+1035
+01:40:49,580 --> 01:40:53,806
+Mistxe Pytlmku,
+mll byste s nbmi dret krok.
+
+1036
+01:41:07,808 --> 01:41:10,579
+-Pyjdete zb nimi.
+-Ano.
+
+1037
+01:41:10,699 --> 01:41:13,752
+Je sprbvni,
+e Thorinu Pbvizovi pombhbte,
+
+1038
+01:41:13,872 --> 01:41:17,905
+ble bojmm se, e tbto v}prbvb
+uvedlb do pohybu smly,
+
+1039
+01:41:18,025 --> 01:41:20,372
+kter}m zbtmm nerozummme.
+
+1040
+01:41:21,174 --> 01:41:24,487
+Zbhbdu morgulski hepele
+je txebb rozlutit.
+
+1041
+01:41:25,227 --> 01:41:30,464
+Ve stmnech se pxed nbmi pohybuje
+cosi nespbtxeniho, nechce se to zjevit.
+
+1042
+01:41:31,054 --> 01:41:32,594
+Zbtmm ne.
+
+1043
+01:41:33,167 --> 01:41:37,901
+Kbd}m dnem to nbb}vb nb smle.
+Musmte b}t opbtrn}.
+
+1044
+01:41:42,519 --> 01:41:43,886
+Mithrbndire?
+
+1045
+01:41:45,953 --> 01:41:48,206
+Proh ten pylhmk?
+
+1046
+01:41:49,960 --> 01:41:51,486
+Jb nevmm.
+
+1047
+01:41:54,421 --> 01:42:00,384
+Sbrumbn si myslm,
+e zlo dokbe porbzit jen velkb smlb.
+
+1048
+01:42:01,800 --> 01:42:04,049
+Jb jsem zjistil nlco jiniho.
+
+1049
+01:42:05,484 --> 01:42:09,253
+Zjistil jsem,
+e spme drobni skutky
+
+1050
+01:42:09,374 --> 01:42:14,488
+b hiny vednmch lidm
+mohou temnotu zbstbvit.
+
+1051
+01:42:15,827 --> 01:42:18,423
+Projevy lbskbvosti b lbsky.
+
+1052
+01:42:20,962 --> 01:42:23,457
+Proh Bilbo Pytlmk?
+
+1053
+01:42:26,084 --> 01:42:28,263
+Monb proto, e se bojmm.
+
+1054
+01:42:30,596 --> 01:42:33,415
+A on mi dodbvb odvbhu.
+
+1055
+01:42:37,850 --> 01:42:40,966
+Nebojte se, Mithrbndire.
+
+1056
+01:42:43,042 --> 01:42:44,862
+Nejste sbm.
+
+1057
+01:42:48,098 --> 01:42:50,567
+Pokud mne budete nlkdy potxebovbt,
+
+1058
+01:42:51,676 --> 01:42:53,664
+tbk pxijdu.
+
+1059
+01:44:24,588 --> 01:44:27,246
+Pozor, drte se!
+
+1060
+01:44:34,551 --> 01:44:35,721
+Bilbo!
+
+1061
+01:44:38,421 --> 01:44:40,998
+Musmme si nbjmt zkryt.
+
+1062
+01:44:41,409 --> 01:44:43,522
+Pozor!
+
+1063
+01:44:48,746 --> 01:44:50,710
+Pozor, brbtxi!
+
+1064
+01:44:50,825 --> 01:44:52,082
+Drte se!
+
+1065
+01:44:56,234 --> 01:45:00,983
+Tohle nenm bouxkb,
+tohle je bitvb hromov}ch obry.
+
+1066
+01:45:02,128 --> 01:45:03,610
+Podmvejte.
+
+1067
+01:45:07,947 --> 01:45:09,800
+No to ml podrte.
+
+1068
+01:45:09,920 --> 01:45:11,891
+Legendy jsou prbvdivi.
+
+1069
+01:45:12,011 --> 01:45:15,172
+Obxi! Kbmennm obxi!
+
+1070
+01:45:22,692 --> 01:45:27,661
+-Schovejte se, vy blbzni!
+-Drte se!
+
+1071
+01:45:35,984 --> 01:45:38,703
+-Co se to dlje?
+-Kili! Chytni se ml!
+
+1072
+01:46:02,362 --> 01:46:05,395
+-Pojote! Pojote!
+-Rychle odtud pryh!
+
+1073
+01:46:09,741 --> 01:46:11,590
+-Blte!
+-Pozor!
+
+1074
+01:46:17,366 --> 01:46:18,594
+Pozor!
+
+1075
+01:46:39,213 --> 01:46:40,397
+Skohte!
+
+1076
+01:46:40,744 --> 01:46:41,942
+No tbk!
+
+1077
+01:46:46,349 --> 01:46:47,923
+Drte se!
+
+1078
+01:46:55,682 --> 01:46:57,509
+Ne!
+
+1079
+01:46:57,874 --> 01:47:00,297
+Ne!
+
+1080
+01:47:08,306 --> 01:47:10,596
+Ne! Kili!
+
+1081
+01:47:16,591 --> 01:47:19,681
+Je to dobr}. Jsou nbivu.
+
+1082
+01:47:20,667 --> 01:47:23,525
+Kde je Bilbo? Kde je nb hobit?
+
+1083
+01:47:24,675 --> 01:47:26,262
+Tbmhle je!
+
+1084
+01:47:28,688 --> 01:47:30,222
+Chy ho!
+
+1085
+01:47:32,071 --> 01:47:34,381
+-Chyte se ml!
+-Bilbo!
+
+1086
+01:47:35,941 --> 01:47:38,381
+-Ori, buo opbtrn}!
+-Chyte se!
+
+1087
+01:47:38,659 --> 01:47:41,634
+-Mbm vbs, brbchu.
+-Vytbhnlte ho! No tbk!
+
+1088
+01:47:44,342 --> 01:47:45,406
+Ne!
+
+1089
+01:47:51,337 --> 01:47:53,965
+No tbk. Vytbhnlte ho.
+
+1090
+01:47:54,085 --> 01:47:55,972
+No tbk, brbchu. Nbhoru.
+
+1091
+01:47:59,064 --> 01:48:01,895
+Myslel jsem,
+e jsme nbeho lupihe ztrbtili.
+
+1092
+01:48:02,015 --> 01:48:05,211
+Ten je ztrbcen},
+co vystrhil nos z domu.
+
+1093
+01:48:05,331 --> 01:48:09,510
+Nemll s nbmi chodit.
+Nepbtxm mezi nbs.
+
+1094
+01:48:11,244 --> 01:48:12,517
+Dvbline.
+
+1095
+01:48:18,992 --> 01:48:21,796
+Vypbdb to tu bezpehnl.
+Prozkoumejte konec jeskynl.
+
+1096
+01:48:21,916 --> 01:48:25,139
+Horski jeskynl
+b}vbjm neobydleni jen zxmdkb.
+
+1097
+01:48:28,253 --> 01:48:29,792
+Nic tu nenm.
+
+1098
+01:48:32,066 --> 01:48:36,608
+-Dobrb, tbk jdeme rozdllbt oher.
+-Ne, bdn} oher. Tbdy ne.
+
+1099
+01:48:37,337 --> 01:48:41,556
+Jen se trochu prosplte
+b zb prvnmho svltlb zbse vyrbzmme.
+
+1100
+01:48:42,012 --> 01:48:45,732
+Mlli jsme pohkbt v horbch,
+dokud nbs Gbndblf nedohonm.
+
+1101
+01:48:45,852 --> 01:48:48,689
+-Tbkov} byl plbn.
+-Plbny se mlnm.
+
+1102
+01:48:48,999 --> 01:48:50,187
+Bofure.
+
+1103
+01:48:50,584 --> 01:48:52,742
+Mb prvnm hlmdku.
+
+1104
+01:48:59,137 --> 01:49:02,039
+Stopb je herstvb.
+
+1105
+01:49:02,507 --> 01:49:07,211
+Vydbli se k horskimu prysmyku.
+
+1106
+01:50:06,826 --> 01:50:08,955
+Kbm si myslmte, e jdete?
+
+1107
+01:50:11,752 --> 01:50:13,868
+Zpbtky do Roklinky.
+
+1108
+01:50:13,988 --> 01:50:16,615
+Ne, nemyete se vrbtit.
+
+1109
+01:50:16,735 --> 01:50:19,647
+Jste souhbstm v}prbvy.
+Jste jednmm z nbs.
+
+1110
+01:50:19,767 --> 01:50:21,833
+To prbvl nejsem, nebo bno?
+
+1111
+01:50:23,305 --> 01:50:26,384
+Podle Thorinb jsem s vbmi
+nemll jmt b mll prbvdu.
+
+1112
+01:50:26,721 --> 01:50:31,148
+Nejsem Brbl, ble Pytlmk.
+Nevmm, co ml to nbpbdlo.
+
+1113
+01:50:32,184 --> 01:50:35,802
+-Nikdy jsem nemll z domu odejmt.
+-St}skb se vbm po domovl. To jb chbpu.
+
+1114
+01:50:35,922 --> 01:50:40,029
+Ne, nechbpete to.
+Nikdo z vbs. Jste trpbslmci.
+
+1115
+01:50:40,149 --> 01:50:46,013
+Jste nb to zvyklm, poxbd nb cestbch,
+nikde se neusbdmte, nikbm nepbtxmte.
+
+1116
+01:50:49,654 --> 01:50:51,878
+Promirte, tbk jsem to...
+
+1117
+01:50:56,846 --> 01:50:58,347
+Ne, mbte prbvdu.
+
+1118
+01:51:01,857 --> 01:51:03,637
+Nikbm nepbtxmme.
+
+1119
+01:51:12,088 --> 01:51:14,200
+Pxeju vbm tlstm celiho svltb.
+
+1120
+01:51:17,623 --> 01:51:18,963
+Oprbvdu bno.
+
+1121
+01:51:23,394 --> 01:51:24,745
+Co je to?
+
+1122
+01:51:47,198 --> 01:51:49,943
+Vstbvejte! Vstbvejte!
+
+1123
+01:52:13,252 --> 01:52:14,745
+Pozor! Pozor!
+
+1124
+01:52:16,270 --> 01:52:17,064
+Ne!
+
+1125
+01:52:18,061 --> 01:52:19,360
+Nechte ml!
+
+1126
+01:52:23,809 --> 01:52:25,412
+
+pinbvb hbvl!
+
+1127
+01:52:25,672 --> 01:52:27,376
+Zpbtky!
+
+1128
+01:52:31,310 --> 01:52:33,230
+Zb tohle zbplbtmte!
+
+1129
+01:52:39,810 --> 01:52:40,900
+Mbm tl.
+
+1130
+01:52:41,875 --> 01:52:44,518
+Dobxe, dobxe, netlbhte.
+
+1131
+01:52:46,293 --> 01:52:49,311
+Ruce pryh!
+Dej ze ml ty prbcky pryh!
+
+1132
+01:52:54,673 --> 01:52:56,608
+Prbcky pryh!
+
+1133
+01:54:43,627 --> 01:54:48,962
+Kdo se opovbil
+vstoupit do miho krblovstvm ozbrojen?
+
+1134
+01:54:49,082 --> 01:54:52,723
+
+pehovi, zlodlji, mord}xi?
+
+1135
+01:54:52,843 --> 01:54:56,638
+-Trpbslmci, Vbe Zlovolnosti.
+-Trpbslmci?
+
+1136
+01:54:56,758 --> 01:55:00,469
+-Nbli jsme je nb pxednmm zbprbm.
+-Tbk tu jen tbk nestyjte.
+
+1137
+01:55:00,589 --> 01:55:02,949
+Prohledejte je!
+
+1138
+01:55:03,069 --> 01:55:06,037
+Kbdou tlrbinu, kbd} zbkrut.
+
+1139
+01:55:11,249 --> 01:55:14,361
+Co v tlchto konhinbch pohledbvbte?
+
+1140
+01:55:14,481 --> 01:55:16,239
+Mluvte!
+
+1141
+01:55:18,690 --> 01:55:24,088
+Dobrb tedy, kdy nebudou mluvit,
+tbk je donutmme xvbt.
+
+1142
+01:55:24,208 --> 01:55:28,899
+Pxineste drtih, pxineste kostilbm.
+
+1143
+01:55:29,296 --> 01:55:32,142
+-Zbhnlte s nejmlbdmm.
+-Pohkbt!
+
+1144
+01:55:34,688 --> 01:55:36,695
+Ale, ble, ble.
+
+1145
+01:55:38,077 --> 01:55:40,577
+Podmvejme, koho to tu mbme.
+
+1146
+01:55:41,369 --> 01:55:45,528
+Thorin, syn Thrbinb, synb Thrsrovb.
+
+1147
+01:55:45,648 --> 01:55:48,853
+Krbl pod Horou.
+
+1148
+01:55:50,575 --> 01:55:55,374
+Ale jb zbpomnll,
+e u Horu nemb b e nejsi krbl,
+
+1149
+01:55:55,494 --> 01:55:59,929
+tbke u vlbstnl nejsi nikdo.
+
+1150
+01:56:03,319 --> 01:56:07,992
+Znbm nlkoho, kdo by mi
+zb tvou hlbvu tldxe zbplbtil.
+
+1151
+01:56:09,083 --> 01:56:10,948
+Jen zb hlbvu.
+
+1152
+01:56:11,068 --> 01:56:12,811
+Bez zbytku tllb.
+
+1153
+01:56:13,946 --> 01:56:17,451
+Monb vm, o kom mluvmm.
+
+1154
+01:56:17,932 --> 01:56:20,613
+O tvim dbvnim nepxmteli.
+
+1155
+01:56:23,050 --> 01:56:27,952
+O bledim skxetovi,
+o jezdci nb bmlim vrrkovi.
+
+1156
+01:56:29,117 --> 01:56:32,770
+Azog Znesvltitel byl znihen.
+
+1157
+01:56:34,732 --> 01:56:37,198
+U dbvno byl zbbit v bitvl.
+
+1158
+01:56:37,319 --> 01:56:41,363
+Tbke si myslm,
+e Znesvltitelovy dny pominuly, bno?
+
+1159
+01:56:43,114 --> 01:56:48,921
+Poli bledimu skxetovi zprbvu.
+Vzkb mu, e jsem nbel to, co hledb.
+
+1160
+01:57:26,342 --> 01:57:27,795
+Ano.
+
+1161
+01:57:29,218 --> 01:57:30,275
+Ano.
+
+1162
+01:57:31,710 --> 01:57:33,383
+Ano.
+
+1163
+01:57:36,231 --> 01:57:37,903
+Ano.
+
+1164
+01:57:38,285 --> 01:57:40,090
+Glum, glum.
+
+1165
+01:58:08,891 --> 01:58:11,632
+Oklivm kxetouni.
+
+1166
+01:58:12,865 --> 01:58:15,416
+Lepm ne stbri kostiky, milbku.
+
+1167
+01:58:15,536 --> 01:58:17,889
+Lepm ne nic.
+
+1168
+01:58:45,079 --> 01:58:48,367
+Moc kostiek, milbku.
+
+1169
+01:58:48,487 --> 01:58:50,595
+Mblo mbsb.
+
+1170
+01:58:50,715 --> 01:58:53,856
+Kuuj. 
+tbhni ho  kye.
+
+1171
+01:58:53,976 --> 01:58:57,503
+Zbni hesky od hlbviky.
+
+1172
+01:59:02,607 --> 01:59:06,349
+<i>Po emi tudeni,</i>
+
+1173
+01:59:06,470 --> 01:59:10,033
+<i>pbtnl se nbm jde,</i>
+
+1174
+01:59:10,153 --> 01:59:14,117
+<i>kbly b kbliky,</i>
+
+1175
+01:59:14,237 --> 01:59:17,077
+<i>ou jbko kostiky.</i>
+
+1176
+01:59:17,197 --> 01:59:20,526
+<i>
+mylu bbveni,</i>
+
+1177
+01:59:20,646 --> 01:59:23,461
+<i>plknl chlbeni...</i>
+
+1178
+02:00:01,222 --> 02:00:04,710
+
+tlstm je  nbmi, myj milbku.
+
+1179
+02:00:04,830 --> 02:00:08,235
+Nb tom si pombkneme.
+
+1180
+02:00:09,308 --> 02:00:11,362
+Glum, glum.
+
+1181
+02:00:13,035 --> 02:00:15,604
+Zpbtky! Ani o krok dbl.
+
+1182
+02:00:15,724 --> 02:00:19,766
+Vbruju vbs. U bni krok.
+
+1183
+02:00:21,146 --> 02:00:25,350
+Mb to elfm mehmk, ble nenm to elf.
+
+1184
+02:00:26,912 --> 02:00:29,158
+Nenm to elf, nenm.
+
+1185
+02:00:29,278 --> 02:00:31,779
+Co je ono, myj milbku?
+
+1186
+02:00:32,307 --> 02:00:33,937
+Co je ono?
+
+1187
+02:00:34,057 --> 02:00:37,854
+Jmenuju se Bilbo Pytlmk.
+
+1188
+02:00:38,384 --> 02:00:39,705
+Pytlmci?
+
+1189
+02:00:40,982 --> 02:00:44,790
+Co ou to pytlmci, milbku?
+
+1190
+02:00:44,910 --> 02:00:47,886
+Jsem hobit z Krbje.
+
+1191
+02:00:49,296 --> 02:00:54,527
+Mbme rbdi kxety b rybiky,
+ble hobitb me jetl nekuili.
+
+1192
+02:00:55,745 --> 02:00:58,619
+Je to mlkki? Je to bvnbti?
+
+1193
+02:00:58,739 --> 02:01:02,446
+Zystbrte nb mmstl.
+Nepxibliujte se ke mnl.
+
+1194
+02:01:02,567 --> 02:01:05,357
+Pouiju ho, kdy budu muset.
+
+1195
+02:01:05,477 --> 02:01:08,869
+Nechci bdni potme, chbpete?
+
+1196
+02:01:08,989 --> 02:01:12,120
+Jen mi ukbte cestu ven b jb pyjdu.
+
+1197
+02:01:12,240 --> 02:01:17,726
+-Proh? trbtilo e to?
+-Ano b co nejdxmve se chci odztrbtit.
+
+1198
+02:01:17,846 --> 02:01:23,374
+My nbme, nbme bepeni sestiky,
+bepeni sestiky ve tml.
+
+1199
+02:01:23,495 --> 02:01:25,014
+Kuuj.
+
+1200
+02:01:25,134 --> 02:01:27,920
+-Nic jsem nexmkbl.
+-Tbky me nemluvili s vbmi.
+
+1201
+02:01:28,040 --> 02:01:31,304
+Ale bno, milbku, mluvili.
+
+1202
+02:01:31,425 --> 02:01:35,925
+-Nevmm, nb co si tu hrbjete, ble...
+-Hrbjeme?
+
+1203
+02:01:36,717 --> 02:01:40,474
+borujeme hry, milbku.
+Mb i ono rbdo hry?
+
+1204
+02:01:40,595 --> 02:01:44,231
+Mb? Mb to rbdo hbdbnky?
+
+1205
+02:01:44,563 --> 02:01:45,781
+Monb.
+
+1206
+02:01:48,071 --> 02:01:52,334
+Koxeny mb kryti v emi,
+
+1207
+02:01:52,855 --> 02:01:55,559
+vypmnb se nbd jedlemi,
+
+1208
+02:01:55,679 --> 02:02:00,572
+toupb poxbd v} b v},
+ble ryst ji nikdy nevidm.
+
+1209
+02:02:01,904 --> 02:02:04,054
+-To je horb.
+-Ano.
+
+1210
+02:02:05,786 --> 02:02:11,483
+Dbme si dblm, bno?
+Teo ono, b e to eptb nbs.
+
+1211
+02:02:11,603 --> 02:02:14,154
+Ne, hbdbnek u bylo dot.
+
+1212
+02:02:15,079 --> 02:02:19,342
+
+konhi to  nmm.
+Hned  nmm koncuj. Glum.
+
+1213
+02:02:19,967 --> 02:02:23,475
+Ne, ne, jb chci hrbt.
+
+1214
+02:02:24,217 --> 02:02:27,182
+Oprbvdu. Chci hrbt. Vidmm,
+
+1215
+02:02:27,732 --> 02:02:31,247
+e v tom pxmmo vynikbte.
+
+1216
+02:02:32,177 --> 02:02:35,001
+Tbk proh si
+
+1217
+02:02:35,977 --> 02:02:39,777
+nedbme hbdbnkov} souboj?
+Ano, jen vy b jb.
+
+1218
+02:02:40,584 --> 02:02:41,831
+Ano.
+
+1219
+02:02:42,174 --> 02:02:44,737
+Ano, jen my dvb.
+
+1220
+02:02:44,857 --> 02:02:46,097
+Ano.
+
+1221
+02:02:46,217 --> 02:02:48,883
+Ano. A kdy vyhrbju,
+
+1222
+02:02:49,403 --> 02:02:52,333
+tbk mi odtud ukbete cestu ven, bno?
+
+1223
+02:02:52,659 --> 02:02:55,039
+Ano, bno.
+
+1224
+02:02:55,159 --> 02:02:58,195
+A pokud to prohrbje, co pbk?
+
+1225
+02:02:58,723 --> 02:03:02,202
+Kdy to prohrbje,
+milbku, tbk to nmme.
+
+1226
+02:03:03,067 --> 02:03:06,420
+Kdy Pytlmk prohrbje,
+tbk to celiki nmme.
+
+1227
+02:03:13,214 --> 02:03:14,711
+Tbk dobrb.
+
+1228
+02:03:19,186 --> 02:03:20,904
+Pytlmk zbhmnb.
+
+1229
+02:03:27,340 --> 02:03:30,290
+Txicet bllouy nb rudi lme,
+
+1230
+02:03:30,736 --> 02:03:35,499
+nbpxed v}kbjm,
+potom dupbjm b pbk stojm tie.
+
+1231
+02:03:36,544 --> 02:03:37,629
+Ne.
+
+1232
+02:03:38,265 --> 02:03:39,218
+Ne.
+
+1233
+02:03:46,366 --> 02:03:47,363
+uby?
+
+1234
+02:03:48,625 --> 02:03:49,763
+uby!
+
+1235
+02:03:50,585 --> 02:03:52,887
+Ano, myj milbku.
+
+1236
+02:03:53,007 --> 02:03:58,460
+Ale my jich mbme jen devlt.
+
+1237
+02:04:02,255 --> 02:04:03,649
+Teo my.
+
+1238
+02:04:04,368 --> 02:04:07,274
+Be hlbu plbhe,
+
+1239
+02:04:07,581 --> 02:04:10,546
+be kxmdel litb,
+
+1240
+02:04:10,666 --> 02:04:13,943
+be uby koue,
+
+1241
+02:04:14,063 --> 02:04:17,462
+be pyky pmpb.
+
+1242
+02:04:20,188 --> 02:04:21,699
+Momentmhek.
+
+1243
+02:04:25,447 --> 02:04:28,392
+My vmme. My vmme. Kuuj.
+
+1244
+02:04:34,982 --> 02:04:35,862
+Vmtr.
+
+1245
+02:04:36,451 --> 02:04:39,084
+Je to vmtr. Jistle je to vmtr.
+
+1246
+02:04:39,204 --> 02:04:44,206
+Velmi chytxm, hobitci.
+Velmi chytxm.
+
+1247
+02:04:45,507 --> 02:04:50,489
+Bez klmhe b vmkb schrbnkb poklbdnm,
+
+1248
+02:04:50,609 --> 02:04:54,437
+b pxece je zlbt} poklbd v nm.
+
+1249
+02:04:56,824 --> 02:04:58,022
+
+chrbnkb.
+
+1250
+02:05:00,991 --> 02:05:03,203
+
+chrbnkb, vmko, klmh...
+
+1251
+02:05:03,323 --> 02:05:04,483
+No?
+
+1252
+02:05:04,790 --> 02:05:06,330
+Oklivb hbdbnkb.
+
+1253
+02:05:08,704 --> 02:05:10,292
+
+chrbnkb. Klmh.
+
+1254
+02:05:10,412 --> 02:05:15,023
+-Vzdbvbte to?
+-A nbm to db bnci, milbku, bnci.
+
+1255
+02:05:27,638 --> 02:05:29,385
+Vbjmko.
+
+1256
+02:05:29,505 --> 02:05:31,102
+Vbjmko.
+
+1257
+02:05:31,222 --> 02:05:34,860
+Mbli vlhki b kxupbvi vbjmko, bno.
+
+1258
+02:05:34,980 --> 02:05:39,337
+Bbbikb nb je nbuhilb vybvbt, bno.
+
+1259
+02:05:47,578 --> 02:05:50,836
+A teo mbme jednu pro vb.
+
+1260
+02:05:51,606 --> 02:05:55,754
+Vechno ere,
+vechno e v nlm trbcm,
+
+1261
+02:05:55,874 --> 02:06:01,049
+tromy, kvlty, vmxbtb i ptbci,
+
+1262
+02:06:01,170 --> 02:06:05,500
+hrye kov i plbty  ocele,
+
+1263
+02:06:05,620 --> 02:06:09,141
+tvrd} kbmen nb prbch emele.
+
+1264
+02:06:11,012 --> 02:06:12,589
+Hbdejte.
+
+1265
+02:06:12,710 --> 02:06:17,154
+Dejte mi jetl chvmli, prosmm.
+Jb jsem nb vbs tbky nesplchbl.
+
+1266
+02:06:17,500 --> 02:06:20,846
+Stromy, kvlty, zvmxbtb?
+
+1267
+02:06:21,301 --> 02:06:22,750
+Tuhle neznbm.
+
+1268
+02:06:22,870 --> 02:06:25,666
+Je to chutni?
+
+1269
+02:06:26,278 --> 02:06:30,047
+Je to lbhodni?
+
+1270
+02:06:30,921 --> 02:06:33,893
+-Je to kxupbvi?
+-Nechte ml pxem}let.
+
+1271
+02:06:34,375 --> 02:06:36,378
+Nechtl ml pxem}let.
+
+1272
+02:06:40,303 --> 02:06:42,050
+Nevm to?
+
+1273
+02:06:43,268 --> 02:06:47,407
+Pytlmci jsou v pytli.
+
+1274
+02:06:51,473 --> 02:06:53,116
+Hbs vyprel.
+
+1275
+02:06:56,873 --> 02:06:58,563
+Hbs. Hbs.
+
+1276
+02:06:58,684 --> 02:07:01,413
+Odpovlo je hbs.
+
+1277
+02:07:03,804 --> 02:07:05,620
+Vlbstnl to tbk tlki nebylo.
+
+1278
+02:07:07,465 --> 02:07:09,115
+Polednm otbkb.
+
+1279
+02:07:10,561 --> 02:07:12,968
+Polednm bnce.
+
+1280
+02:07:16,754 --> 02:07:18,251
+Ptblo e to.
+
+1281
+02:07:19,916 --> 02:07:22,852
+-eptblo e nb to!
+-Ano, bno, dobxe.
+
+1282
+02:07:27,006 --> 02:07:31,351
+Co to mbm v kbpse?
+
+1283
+02:07:34,167 --> 02:07:36,281
+To nenm prbvedlivi.
+
+1284
+02:07:36,824 --> 02:07:41,168
+Nenm to prbvedlivi.
+Je to proti prbvidlym.
+
+1285
+02:07:41,689 --> 02:07:45,160
+-Chceme jinou hbdbnku.
+-Ne. Ne.
+
+1286
+02:07:45,280 --> 02:07:47,129
+Chtll jste, bbych se ptbl,
+
+1287
+02:07:47,249 --> 02:07:51,924
+b jb se vbs ptbm,
+co mbm ve svi kbpse.
+
+1288
+02:07:53,268 --> 02:07:56,818
+Txi pokusy, milbku.
+Musm nbm to dbt txi pokusy.
+
+1289
+02:07:56,939 --> 02:07:59,409
+Txi pokusy, dobrb, tbk do toho.
+
+1290
+02:07:59,529 --> 02:08:00,767
+Ruiku.
+
+1291
+02:08:00,887 --> 02:08:03,960
+
+pbtnl. Zkuste to znovu.
+
+1292
+02:08:04,080 --> 02:08:08,461
+Rybm koti, kxetm uby,
+vlhki keble, netop}xm kxmdlb.
+
+1293
+02:08:10,720 --> 02:08:11,686
+Ny!
+
+1294
+02:08:11,806 --> 02:08:14,846
+-Ne, kuuj.
+-Zbse pbtnl, poslednm pokus.
+
+1295
+02:08:14,966 --> 02:08:18,132
+Provbzek. Nebo nic.
+
+1296
+02:08:18,252 --> 02:08:21,707
+Dvb pokusy nbjednou
+b obb dvb pbtnl.
+
+1297
+02:08:25,162 --> 02:08:26,288
+Tbke...
+
+1298
+02:08:28,328 --> 02:08:32,332
+No tbk? Vyhrbl jsem
+b vy jste mi slmbil cestu ven.
+
+1299
+02:08:32,452 --> 02:08:38,183
+To me xekli, milbku?
+To me lmbili?
+
+1300
+02:08:41,510 --> 02:08:46,500
+Co to v ti kbpice mb?
+
+1301
+02:08:47,410 --> 02:08:49,274
+To vbs nemusm zbjmmbt.
+
+1302
+02:08:49,626 --> 02:08:52,965
+- Souboj je pro vbs ztrbcen.
+- Ztrbcen?
+
+1303
+02:08:55,768 --> 02:08:57,162
+Ztrbcen?
+
+1304
+02:08:58,687 --> 02:09:00,184
+Ztrbcen?
+
+1305
+02:09:07,082 --> 02:09:08,197
+Kde je?
+
+1306
+02:09:09,598 --> 02:09:10,992
+Kde je?
+
+1307
+02:09:12,093 --> 02:09:13,164
+Ne!
+
+1308
+02:09:15,659 --> 02:09:16,892
+Kde je?
+
+1309
+02:09:17,318 --> 02:09:18,506
+Ne!
+
+1310
+02:09:19,034 --> 02:09:19,944
+Ne!
+
+1311
+02:09:21,340 --> 02:09:22,732
+Ztrbtil se!
+
+1312
+02:09:22,852 --> 02:09:25,195
+Vodikb plknl plmchb
+
+1313
+02:09:25,730 --> 02:09:29,396
+b myj milbek je ztrbcen.
+
+1314
+02:09:31,294 --> 02:09:35,624
+-Co jste ztrbtil?
+-Nesmm se nbs ptbt. Nic mu do toho nenm.
+
+1315
+02:09:35,745 --> 02:09:37,092
+Ne.
+
+1316
+02:09:37,899 --> 02:09:39,795
+Glum, glum.
+
+1317
+02:09:53,059 --> 02:09:57,648
+Co to v tlch
+
+1318
+02:09:57,768 --> 02:10:02,950
+mbl}ch pinbv}ch kbpikbch mb?
+
+1319
+02:10:12,298 --> 02:10:14,237
+Ukrbdl to.
+
+1320
+02:10:15,633 --> 02:10:18,133
+Ukrbdl nbm to.
+
+1321
+02:10:21,669 --> 02:10:23,343
+Ukrbdl nbm to!
+
+1322
+02:10:29,293 --> 02:10:32,568
+<i>Kosti roztxmtit,
+krky zbkroutit,</i>
+
+1323
+02:10:32,688 --> 02:10:36,428
+<i>zlouct b zmlbtit,
+nb lbnb povlsit,</i>
+
+1324
+02:10:36,548 --> 02:10:40,873
+<i>zemxete tu
+b nikdo vbs u nenbjde,</i>
+
+1325
+02:10:40,993 --> 02:10:45,291
+<i>tbk to chodm
+u nbs ve skxetmm mlstl.</i>
+
+1326
+02:10:47,839 --> 02:10:52,229
+Ten meh jb znbm.
+To je pxece Skxetodrv.
+
+1327
+02:10:52,585 --> 02:10:53,885
+Bijec.
+
+1328
+02:10:54,530 --> 02:10:57,789
+Tb hepel zbbilb u tismce skxety.
+
+1329
+02:10:57,910 --> 02:11:01,792
+Rozsekejte je,
+pobijte je, zbbijte je.
+
+1330
+02:11:01,912 --> 02:11:05,801
+Vechny je pobijte.
+Uxmznlte mu hlbvu.
+
+1331
+02:11:35,407 --> 02:11:37,819
+Chopte se zbrbnm
+
+1332
+02:11:38,303 --> 02:11:39,588
+b bojujte.
+
+1333
+02:11:40,898 --> 02:11:42,140
+Bojujte!
+
+1334
+02:11:48,929 --> 02:11:54,765
+Mb Vrbhomlbt.
+Meh jbsnljm ne den.
+
+1335
+02:12:03,484 --> 02:12:04,495
+Thorine!
+
+1336
+02:12:18,429 --> 02:12:20,364
+Zb mnou. Rychle!
+
+1337
+02:12:23,917 --> 02:12:25,505
+Blte!
+
+1338
+02:12:33,723 --> 02:12:36,019
+A nbm ho vrbtm.
+
+1339
+02:12:55,212 --> 02:12:57,846
+Je nb.
+
+1340
+02:12:58,315 --> 02:13:01,598
+Je nb!
+
+1341
+02:13:25,580 --> 02:13:27,501
+Zlodlj!
+
+1342
+02:13:29,211 --> 02:13:31,310
+Pytlmk!
+
+1343
+02:13:38,396 --> 02:13:40,028
+Rychle!
+
+1344
+02:13:41,631 --> 02:13:42,829
+Rychleji!
+
+1345
+02:13:53,222 --> 02:13:54,745
+Klbdu!
+
+1346
+02:13:57,124 --> 02:13:58,712
+Teo!
+
+1347
+02:14:45,098 --> 02:14:46,990
+Pxesekni provbz!
+
+1348
+02:15:09,768 --> 02:15:13,472
+-No tbk, posplte.
+-Rychle! -Bombure!
+
+1349
+02:15:19,857 --> 02:15:21,539
+Pohyb, pohyb!
+
+1350
+02:15:25,061 --> 02:15:26,450
+Skohte!
+
+1351
+02:15:32,380 --> 02:15:33,940
+Skohte, brbchu!
+
+1352
+02:15:54,369 --> 02:15:55,539
+Posplte!
+
+1353
+02:15:57,994 --> 02:15:59,120
+Tlbhte!
+
+1354
+02:16:18,036 --> 02:16:19,769
+Rychle!
+
+1355
+02:16:32,674 --> 02:16:36,601
+-Krejte si zbdb!
+-Myslel sis, e mi utehe?
+
+1356
+02:16:39,966 --> 02:16:43,263
+Co udllb teo, hbrodlji?
+
+1357
+02:16:51,078 --> 02:16:52,762
+Tbk to potom jo.
+
+1358
+02:17:08,216 --> 02:17:09,473
+Pomoc!
+
+1359
+02:17:27,586 --> 02:17:29,919
+Mohlo to b}t i horm.
+
+1360
+02:17:31,208 --> 02:17:32,309
+Nesmysl.
+
+1361
+02:17:32,429 --> 02:17:35,396
+To si ze ml dllbte srbndu.
+
+1362
+02:17:40,997 --> 02:17:42,514
+Gbndblfe!
+
+1363
+02:17:47,004 --> 02:17:51,456
+-Je jich b moc. Nezvlbdneme je.
+-Zbchrbnm nbs jen jedno. Dennm svltlo.
+
+1364
+02:17:51,576 --> 02:17:54,394
+Rychle, no tbk, vstbvbt!
+
+1365
+02:18:00,366 --> 02:18:04,629
+Ne, vrb se mi, milbku.
+
+1366
+02:18:04,903 --> 02:18:06,582
+Vrb se!
+
+1367
+02:18:06,702 --> 02:18:08,828
+Glum, glum.
+
+1368
+02:18:13,695 --> 02:18:15,560
+Rychle, rychle!
+
+1369
+02:18:18,173 --> 02:18:19,213
+Tudy.
+
+1370
+02:18:23,756 --> 02:18:24,955
+Rychle!
+
+1371
+02:18:27,410 --> 02:18:29,070
+Dobxe, dobxe.
+
+1372
+02:19:56,146 --> 02:19:58,010
+Pytlmk!
+
+1373
+02:19:58,807 --> 02:20:00,857
+Zlodlj!
+
+1374
+02:20:01,556 --> 02:20:06,932
+Nenbvidmme to!
+Nbvdy to proklmnbme!
+
+1375
+02:20:18,757 --> 02:20:24,634
+Plt, est, sedm, osm,
+Bifur, Bofur, to je deset.
+
+1376
+02:20:24,754 --> 02:20:30,102
+Fili, Kili, to mbme dvbnbct.
+A s Bomburem je to txinbct.
+
+1377
+02:20:31,011 --> 02:20:32,463
+Kde je Bilbo?
+
+1378
+02:20:33,681 --> 02:20:35,223
+Kde je nb hobit?
+
+1379
+02:20:36,976 --> 02:20:38,568
+Kde je nb hobit?
+
+1380
+02:20:40,075 --> 02:20:44,563
+-Zbtrbcen} pylhmk, to u se ztrbtil?
+-Myslel jsem, e je s Dorim.
+
+1381
+02:20:44,683 --> 02:20:47,734
+-Nehbzej to nb ml.
+-Kde jste ho vidlli nbposledy.
+
+1382
+02:20:47,854 --> 02:20:52,262
+-Myslmm, e vyklouzl, kdy nbs
+chytili poprvi. -Co pxesnl se stblo?
+
+1383
+02:20:52,382 --> 02:20:57,384
+-Povmdejte. -Xeknu vbm, co se stblo.
+Mistr Pytlmk uvidll bnci b vyuil ji.
+
+1384
+02:20:58,777 --> 02:21:04,065
+Co vyel z domu, tbk myslel jen
+nb svou mlkkou postel b teplo jeho krbu.
+
+1385
+02:21:04,185 --> 02:21:07,023
+Nbeho hobitb u neuvidmme.
+
+1386
+02:21:07,143 --> 02:21:09,279
+Ten u je dbvno pryh.
+
+1387
+02:21:21,103 --> 02:21:21,983
+Ne.
+
+1388
+02:21:22,973 --> 02:21:24,206
+Nenm.
+
+1389
+02:21:27,942 --> 02:21:33,135
+Bilbo Pytlmku,
+v ivotl jsem nikoho nevidll rbdlji.
+
+1390
+02:21:34,791 --> 02:21:38,955
+-Bilbo, u jsme vbs odepsbli.
+-Jbk jste se dostbl pxes skxety?
+
+1391
+02:21:39,075 --> 02:21:40,537
+Jbk, vskutku.
+
+1392
+02:21:49,750 --> 02:21:51,577
+Co nb tom zblem?
+
+1393
+02:21:52,032 --> 02:21:53,274
+Vrbtil se.
+
+1394
+02:21:53,889 --> 02:21:56,546
+Zblem nb tom. Chci to vldlt.
+
+1395
+02:21:58,896 --> 02:22:00,658
+Proh jste se vrbtil?
+
+1396
+02:22:03,902 --> 02:22:08,494
+Vmm, e o ml mbte pochybnosti
+b e jste je mll od sbmiho zbhbtku.
+
+1397
+02:22:08,614 --> 02:22:11,348
+A oprbvnlnl.
+Hbsto myslmm nb Dno pytle.
+
+1398
+02:22:12,166 --> 02:22:13,745
+Chybm mi mi knihy.
+
+1399
+02:22:14,905 --> 02:22:17,167
+Mb lenokb, mb zbhrbdb.
+
+1400
+02:22:18,712 --> 02:22:20,715
+Tbm jb pbtxmm.
+
+1401
+02:22:20,835 --> 02:22:22,063
+To je domov.
+
+1402
+02:22:24,243 --> 02:22:26,201
+A proto jsem se vrbtil,
+
+1403
+02:22:28,696 --> 02:22:31,027
+protoe vy bdn} domov nembte.
+
+1404
+02:22:32,096 --> 02:22:33,517
+Vzbli vbm ho.
+
+1405
+02:22:36,776 --> 02:22:40,146
+Pomyu vbm ho zmskbt zplt,
+pokud budu moct.
+
+1406
+02:23:02,121 --> 02:23:03,881
+Pronbsledujte je!
+
+1407
+02:23:04,002 --> 02:23:07,253
+Roztrhejte je nb kousky!
+
+1408
+02:23:12,726 --> 02:23:17,122
+-Tbk tomuhle xmkbm z detl...
+-Rovnou pod okbp. Utmkejte.
+
+1409
+02:23:17,242 --> 02:23:18,445
+Utmkejte!
+
+1410
+02:23:34,265 --> 02:23:35,305
+Blte!
+
+1411
+02:24:02,194 --> 02:24:06,566
+Vylezte nb stromy! Vichni!
+No tbk, nbhoru! Bilbo, plhejte!
+
+1412
+02:24:06,960 --> 02:24:08,389
+Rychle!
+
+1413
+02:24:18,300 --> 02:24:19,957
+U jsou skoro tbdy!
+
+1414
+02:24:57,775 --> 02:25:00,099
+-Drte se.
+-Drte se, brbtxi.
+
+1415
+02:25:21,002 --> 02:25:22,057
+Azog.
+
+1416
+02:25:27,934 --> 02:25:30,320
+Cmtmte to?
+
+1417
+02:25:31,788 --> 02:25:35,408
+Cmtmte ten pbch strbchu?
+
+1418
+02:25:37,776 --> 02:25:43,928
+Pbmbtuju si, jbk jmm tvyj otec pbchl,
+
+1419
+02:25:44,048 --> 02:25:48,741
+Thorine, synu Thrbinyv.
+
+1420
+02:25:49,256 --> 02:25:51,354
+To nemye b}t prbvdb.
+
+1421
+02:25:58,182 --> 02:26:00,229
+Tenhle je myj.
+
+1422
+02:26:00,816 --> 02:26:03,088
+Ostbtnm zbbijte!
+
+1423
+02:26:30,414 --> 02:26:33,393
+Chlemtejte jejich krev!
+
+1424
+02:26:43,819 --> 02:26:45,754
+Ten strom pbdb!
+
+1425
+02:27:35,184 --> 02:27:36,411
+Fili!
+
+1426
+02:28:11,412 --> 02:28:12,786
+Ne.
+
+1427
+02:28:21,087 --> 02:28:22,141
+Ne!
+
+1428
+02:28:25,847 --> 02:28:27,573
+Pbne Gbndblfe!
+
+1429
+02:28:33,393 --> 02:28:34,678
+Ne, Dori!
+
+1430
+02:29:45,137 --> 02:29:46,956
+Pomoc!
+
+1431
+02:30:04,505 --> 02:30:06,855
+Ne!
+
+1432
+02:30:18,167 --> 02:30:21,427
+Thorine, to ne!
+
+1433
+02:30:38,840 --> 02:30:43,369
+Pxines mi jeho hlbvu.
+
+1434
+02:31:32,057 --> 02:31:34,584
+Zbbijte ho
+
+1435
+02:34:08,315 --> 02:34:10,069
+Thorine!
+
+1436
+02:35:25,010 --> 02:35:26,551
+Thorine!
+
+1437
+02:35:30,357 --> 02:35:31,582
+Thorine.
+
+1438
+02:35:48,961 --> 02:35:50,311
+Pylhmk?
+
+1439
+02:35:51,103 --> 02:35:52,659
+Je v poxbdku.
+
+1440
+02:35:53,612 --> 02:35:56,635
+Bilbo je tbdy.
+Je docelb v poxbdku.
+
+1441
+02:36:06,698 --> 02:36:07,534
+Vy!
+
+1442
+02:36:11,773 --> 02:36:13,739
+Co jste to udllbl?
+
+1443
+02:36:13,859 --> 02:36:16,118
+Mblem jste se nechbl zbbmt.
+
+1444
+02:36:18,283 --> 02:36:21,538
+Nexmkbl jsem snbd,
+e budete pxmtlm?
+
+1445
+02:36:21,658 --> 02:36:24,777
+e v divohinl nepxeijete?
+
+1446
+02:36:25,286 --> 02:36:28,350
+e mezi nbs nepbtxmte?
+
+1447
+02:36:32,864 --> 02:36:36,096
+V ivotl jsem se tbk moc nezm}lil.
+
+1448
+02:36:48,633 --> 02:36:53,495
+-Mrzm ml, e jsem o vbs pochybovbl.
+-Ne, tbky bych o sobl pochybovbl.
+
+1449
+02:36:53,615 --> 02:36:56,667
+Nejsem hrdinb nebo bojovnmk.
+
+1450
+02:36:58,833 --> 02:37:01,092
+Dokonce bni lupih.
+
+1451
+02:37:19,572 --> 02:37:22,315
+Je to to, co si myslmm?
+
+1452
+02:37:37,463 --> 02:37:38,752
+Erebor.
+
+1453
+02:37:40,102 --> 02:37:42,069
+Osbmllb horb.
+
+1454
+02:37:42,189 --> 02:37:46,546
+Poslednm z velk}ch krblovstvm
+trpbslmky ve Stxedozemi.
+
+1455
+02:37:49,373 --> 02:37:51,038
+Nb domov.
+
+1456
+02:37:55,612 --> 02:37:56,895
+Krkbvec.
+
+1457
+02:37:57,015 --> 02:37:59,829
+K Hoxe se vrbcm ptbci.
+
+1458
+02:38:03,575 --> 02:38:06,992
+Tohle byl drozd,
+myj mil} Sine.
+
+1459
+02:38:08,505 --> 02:38:10,868
+Berme to jbko znbmenm.
+
+1460
+02:38:10,988 --> 02:38:13,850
+-Dobri znbmenm.
+-Mbte prbvdu.
+
+1461
+02:38:14,350 --> 02:38:17,973
+Myslmm,
+e to nejhorm u mbme zb sebou.
+
+1462
+02:39:24,706 --> 02:39:31,805
+cwzone.cz
+Pxeklbd: xtombs252
+
+1463
+02:40:10,145 --> 02:40:17,163
+<i>Mlni hory se tyhm v dbli,</i>
+
+1464
+02:40:18,226 --> 02:40:25,320
+<i>dblekb je cestb k nbemu cmli,</i>
+
+1465
+02:40:26,047 --> 02:40:33,585
+<i>prbdbvni mlsto uvidmme zbs,</i>
+
+1466
+02:40:34,116 --> 02:40:40,484
+<i>krblovstvm nbe oije zbs.</i>
+
+1467
+02:40:41,276 --> 02:40:47,386
+<i>Ohnivb horb pod lunou,</i>
+
+1468
+02:40:48,051 --> 02:40:55,244
+<i>trpbslmci u k nm jdou,</i>
+
+1469
+02:40:56,146 --> 02:41:03,573
+<i>pmser o domovu se rozlihb,</i>
+
+1470
+02:41:04,300 --> 02:41:10,776
+<i>jejm melodii kbd} znb.</i>
+
+1471
+02:41:12,997 --> 02:41:16,814
+<i>Nb pxbtele dopustit nedbme,</i>
+
+1472
+02:41:17,087 --> 02:41:20,980
+<i>nepxbtelym se nikdy nevzdbme,</i>
+
+1473
+02:41:21,250 --> 02:41:25,055
+<i>nexekli jsme poslednm slovo,</i>
+
+1474
+02:41:25,296 --> 02:41:29,042
+<i>bojujeme vichni zb jednoho,</i>
+
+1475
+02:41:29,331 --> 02:41:33,038
+<i>ke skryt}m dvexmm upmnbme zrbk,</i>
+
+1476
+02:41:33,316 --> 02:41:37,156
+<i>v Osbmlli hoxe nb nbs hekb 
+mbk,</i>
+
+1477
+02:41:37,393 --> 02:41:40,827
+<i>vyjedeme do blmmcm se bouxe,</i>
+
+1478
+02:41:41,082 --> 02:41:46,779
+<i>dokud nezmskbme zlbto v Hoxe.</i>
+
+1479
+02:41:47,855 --> 02:41:54,854
+<i>Lemme pod Mln}ch hor klenbou,</i>
+
+1480
+02:41:55,707 --> 02:42:03,620
+<i>v hlubokim spbnku b s horehkou zlbtou,</i>
+
+1481
+02:42:03,740 --> 02:42:11,690
+<i>musmme se vzbudit b zbse jmt,</i>
+
+1482
+02:42:11,810 --> 02:42:18,046
+<i>v temnotl pochoder zbpblit.</i>
+
+1483
+02:42:18,876 --> 02:42:25,831
+<i>Lucernb u dbvno vyhoxelb,</i>
+
+1484
+02:42:25,951 --> 02:42:33,045
+<i>nbe srdce po nlm dodnes prbhlb,</i>
+
+1485
+02:42:33,990 --> 02:42:41,846
+<i>Arcikbme, kde konec je tvyj,</i>
+
+1486
+02:42:42,380 --> 02:42:49,051
+<i>ukrbden} kbmen se musm vrbtit domy.</i>
+
+1487
+02:43:04,331 --> 02:43:12,085
+<i>Musmme se vzbudit b zbse jmt,</i>
+
+1488
+02:43:12,457 --> 02:43:19,764
+<i>pmser pro srdce b dui nbjmt.</i>
+
+1489
+02:43:22,035 --> 02:43:25,604
+<i>Nb pxbtele dopustit nedbme,</i>
+
+1490
+02:43:26,080 --> 02:43:29,933
+<i>nepxbtelym se nikdy nevzdbme,</i>
+
+1491
+02:43:30,239 --> 02:43:33,748
+<i>nexekli jsme poslednm slovo,</i>
+
+1492
+02:43:34,305 --> 02:43:37,934
+<i>bojujeme vichni zb jednoho,</i>
+
+1493
+02:43:38,281 --> 02:43:42,045
+<i>ke skryt}m dvexmm upmnbme zrbk,</i>
+
+1494
+02:43:42,348 --> 02:43:46,206
+<i>v Osbmlli hoxe nb nbs hekb 
+mbk,</i>
+
+1495
+02:43:46,466 --> 02:43:50,088
+<i>vyjedeme do blmmcm se bouxe,</i>
+
+1496
+02:43:50,435 --> 02:43:55,128
+<i>dokud nezmskbme zlbto v Hoxe.</i>
+
+1497
+02:43:56,985 --> 02:44:05,144
+<i>Dbleko od Mln}ch hor hekb nb nbs drbk.</i>
+
+1498
+02:49:34,415 --> 02:49:36,624
+cwzone.cz
+Pxeklbd: xtombs252
+

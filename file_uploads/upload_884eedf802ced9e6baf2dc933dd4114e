@@ -1,0 +1,18 @@
+full address:s:10.80.8.14
+server port:i:3389
+username:s:PSM@96bfa607-8666-487b-84f8-2bec1eba3719
+alternate shell:s:PSM@96bfa607-8666-487b-84f8-2bec1eba3719
+desktopwidth:i:1024
+desktopheight:i:768
+screen mode id:i:1
+redirectdrives:i:0
+drivestoredirect:s:
+redirectsmartcards:i:0
+EnableCredSspSupport:i:0
+redirectcomports:i:0
+remoteapplicationmode:i:1
+remoteapplicationprogram:s:||PSMInitSession
+remoteapplicationname:s:PSM-SSH
+disableconnectionsharing:i:1
+use multimon:i:0
+span monitors:i:0
